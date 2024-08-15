@@ -1,0 +1,141 @@
+Lab No,Crop 2023,Planting Method,Tillage,Soil Type,Cover Crop,Crop_Diversity,Grazing,Fertilization,Lime,Longtitude,Latitude,Field,Sample_ID,Season,Date_Rept,B_Depth,E_Depth,pH,OM%,Ca_ppm,OC_H2O_ppm,CO2
+54225,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.67,39.3855,S3,S3_B ,Spring,4/12/2024,0,8,7,4.8,4498,272,86.8
+54226,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.671,39.3845,S3,S3_C ,Spring,4/12/2024,0,8,7.1,4.4,4353,299,101.8
+54227,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.67,39.3845,S3,S3_D ,Spring,4/12/2024,0,8,7,5.2,4329,307,125.5
+54228,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6703,39.3838,S3,S3_E,Spring,4/12/2024,0,8,6.7,4.8,4235,290,108.1
+54243,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7578,39.5099,W1,W1_C ,Spring,4/12/2024,0,8,7.1,4.4,4198,292,103.9
+54245,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7581,39.5089,W1,W1_E ,Spring,4/12/2024,0,8,7.1,4.5,3930,291,101.2
+54248,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7591,39.5072,W1,W1_G ,Spring,4/12/2024,0,8,7,4.3,3783,302,151.9
+54246,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7591,39.5079,W1,W1_F ,Spring,4/12/2024,0,8,6.7,4,3735,267,117.5
+54229,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6703,39.3835,S3,S3_F,Spring,4/12/2024,0,8,7,3.9,3731,297,100.8
+247984,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.67,39.3845,S3,S3_D ,Fall,11/27/2023,0,8,7.1,6,3658,202,104.4
+54249,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7581,39.5079,W1,W1_H ,Spring,4/12/2024,0,8,7,4.2,3534,269,103.8
+54244,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7591,39.5089,W1,W1_D ,Spring,4/12/2024,0,8,6.8,4,3527,304,107.8
+54233,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6666,39.3855,S4,S4_C ,Spring,4/12/2024,0,8,6.6,4.5,3364,291,140.6
+248005,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7591,39.5072,W1,W1_G ,Fall,11/27/2023,0,8,7.3,6,3351,195,107.8
+54213,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6642,39.3794,SS1,SS1_K,Spring,4/12/2024,0,8,7,3.2,3318,216,116.1
+54224,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.67,39.3865,S3,S3_A ,Spring,4/12/2024,0,8,6.2,3.9,3248,244,99
+54200,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5076,E3,E3_G ,Spring,4/12/2024,0,8,6.3,3.6,3227,248,129.3
+54242,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7588,39.5099,W1,W1_B ,Spring,4/12/2024,0,8,6.9,4.3,3211,305,108.8
+54205,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6656,39.3826,SS1,SS1_C ,Spring,4/12/2024,0,8,6.2,3,3198,164,111.4
+248006,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7581,39.5079,W1,W1_H ,Fall,11/27/2023,0,8,7,5.6,3191,182,119.7
+54241,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7582,39.5109,W1,W1_A ,Spring,4/12/2024,0,8,7,3.7,3179,258,111.6
+248002,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7591,39.5089,W1,W1_D ,Fall,11/27/2023,0,8,7,5.3,3151,185,98.1
+247999,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7582,39.5109,W1,W1_A ,Fall,11/27/2023,0,8,6.8,5.3,3150,139,133.1
+54211,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6642,39.3805,SS1,SS1_I ,Spring,4/12/2024,0,8,7.1,3.2,3140,197,118.5
+247969,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6642,39.3794,SS1,SS1_K,Fall,11/27/2023,0,8,7.1,3.6,3132,151,107
+247985,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6703,39.3838,S3,S3_E,Fall,11/27/2023,0,8,6.7,5.7,3092,201,271.1
+247967,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6642,39.3805,SS1,SS1_I ,Fall,11/27/2023,0,8,7.1,3.1,3058,130,228.4
+54223,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6681,39.3865,S2,S2_J ,Spring,4/12/2024,0,8,5.9,4.1,3022,232,144
+54193,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5098,E3,E3_A ,Spring,4/12/2024,0,8,5.6,3.6,2972,226,216.5
+54232,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6643,39.3865,S4,S4_B ,Spring,4/12/2024,0,8,6.9,4.2,2972,265,155.1
+54236,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6666,39.3845,S4,S4_F ,Spring,4/12/2024,0,8,6.7,5.7,2946,253,210.8
+248003,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7581,39.5089,W1,W1_E ,Fall,11/27/2023,0,8,7.1,4.8,2925,187,195
+54215,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6677,39.3895,S2,S2_B ,Spring,4/12/2024,0,8,6.3,3.4,2917,287,136.7
+248001,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7578,39.5099,W1,W1_C ,Fall,11/27/2023,0,8,6.9,5.5,2906,162,198.2
+54219,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6667,39.3885,S2,S2_F ,Spring,4/12/2024,0,8,5.9,3.7,2903,251,176.2
+247982,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.67,39.3855,S3,S3_B ,Fall,11/27/2023,0,8,6.8,5.9,2900,215,205.8
+247986,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6703,39.3835,S3,S3_F,Fall,11/27/2023,0,8,7,5,2886,184,235.7
+248000,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7588,39.5099,W1,W1_B ,Fall,11/27/2023,0,8,6.6,5.2,2864,185,173.2
+54222,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6664,39.3875,S2,S2_I ,Spring,4/12/2024,0,8,6.2,3.4,2854,251,251.7
+54208,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6646,39.382,SS1,SS1_F ,Spring,4/12/2024,0,8,6.7,3.1,2847,165,296.5
+54195,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5099,E3,E3_B ,Spring,4/12/2024,0,8,5.5,3.6,2826,241,277.4
+54216,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6667,39.3895,S2,S2_C ,Spring,4/12/2024,0,8,6,3.9,2767,297,264.1
+54212,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6659,39.3795,SS1,SS1_J ,Spring,4/12/2024,0,8,6.3,2.9,2762,203,225.2
+54221,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6674,39.3875,S2,S2_H,Spring,4/12/2024,0,8,6,4.1,2729,252,320.3
+247981,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.67,39.3865,S3,S3_A ,Fall,11/27/2023,0,8,6.2,4.8,2723,141,147.1
+54207,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6659,39.3815,SS1,SS1_E ,Spring,4/12/2024,0,8,5.9,3,2718,167,237.7
+247963,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6659,39.3815,SS1,SS1_E ,Fall,11/27/2023,0,8,5.7,3.2,2681,107,363.8
+54201,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5076,E3,E3_H ,Spring,4/12/2024,0,8,5.7,3.8,2681,232,323.7
+54235,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6645,39.3853,S4,S4_E ,Spring,4/12/2024,0,8,6.6,5.5,2627,211,311.7
+247990,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6666,39.3855,S4,S4_C ,Fall,11/27/2023,0,8,6.2,4.8,2614,142,323.6
+54220,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6684,39.3875,S2,S2_G ,Spring,4/12/2024,0,8,5.8,3.8,2597,221,287
+54197,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5087,E3,E3_D ,Spring,4/12/2024,0,8,5.8,4,2595,156,48.1
+54204,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6666,39.3826,SS1,SS1_B ,Spring,4/12/2024,0,8,5.8,3.6,2594,137,110.9
+54191,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7528,39.5076,E2,E2_F ,Spring,4/12/2024,0,8,5.4,3.6,2573,186,104.5
+54198,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5087,E3,E3_E ,Spring,4/12/2024,0,8,5.5,4.1,2565,208,78.3
+247978,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6674,39.3875,S2,S2_H,Fall,11/27/2023,0,8,6.1,4.2,2557,175,91.3
+54239,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3838,S4,S4_I,Spring,4/12/2024,0,8,6.6,5,2545,216,104.6
+247956,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5076,E3,E3_G ,Fall,11/27/2023,0,8,6,3.9,2518,148,91.4
+54218,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6677,39.3885,S2,S2_E ,Spring,4/12/2024,0,8,6.4,3.6,2507,255,118.5
+54234,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3855,S4,S4_D ,Spring,4/12/2024,0,8,6.1,3.6,2504,211,177.9
+247961,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6656,39.3826,SS1,SS1_C ,Fall,11/27/2023,0,8,6.1,3.5,2500,124,55.1
+247957,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5076,E3,E3_H ,Fall,11/27/2023,0,8,5.5,4.1,2498,149,158.8
+54206,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6676,39.3815,SS1,SS1_D ,Spring,4/12/2024,0,8,6.3,2.5,2493,164,172.1
+247983,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.671,39.3845,S3,S3_C ,Fall,11/27/2023,0,8,6.8,5.6,2469,184,339.3
+54183,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.511,E1,E1_G ,Spring,4/12/2024,0,8,5.7,3.2,2468,231,247.3
+54199,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5087,E3,E3_F ,Spring,4/12/2024,0,8,5.5,3.2,2445,224,237.4
+247950,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5098,E3,E3_A ,Fall,11/27/2023,0,8,5.7,4.3,2440,168,306.8
+54184,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7553,39.5109,E1,E1_H ,Spring,4/12/2024,0,8,5.5,3.6,2433,242,274.9
+54240,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3838,S4,S4_J,Spring,4/12/2024,0,8,6.4,5,2421,184,294.5
+54189,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7528,39.5087,E2,E2_D ,Spring,4/12/2024,0,8,5.4,4,2415,189,290.6
+54230,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6654,39.3865,S4,S4_A ,Spring,4/12/2024,0,8,6.1,3.7,2406,256,112
+54237,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3846,S4,S4_G ,Spring,4/12/2024,0,8,6.6,4.9,2378,210,111
+54214,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6687,39.3895,S2,S2_A ,Spring,4/12/2024,0,8,5.9,4.7,2376,295,91
+247948,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7528,39.5076,E2,E2_F ,Fall,11/27/2023,0,8,5.6,4.2,2373,148,77
+247973,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6667,39.3895,S2,S2_C ,Fall,11/27/2023,0,8,5.9,4.2,2359,162,105
+247953,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5087,E3,E3_D ,Fall,11/27/2023,0,8,5.7,4.5,2351,120,105
+54202,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5076,E3,E3_I ,Spring,4/12/2024,0,8,5.7,3.5,2343,191,89
+247980,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6681,39.3865,S2,S2_J ,Fall,11/27/2023,0,8,5.6,5,2335,167,106
+247989,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6643,39.3865,S4,S4_B ,Fall,11/27/2023,0,8,6.7,4.4,2320,171,85
+54238,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6647,39.3845,S4,S4_H ,Spring,4/12/2024,0,8,6.3,5,2318,250,104
+247960,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6666,39.3826,SS1,SS1_B ,Fall,11/27/2023,0,8,5.5,4.2,2299,107,145
+54217,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6687,39.3885,S2,S2_D ,Spring,4/12/2024,0,8,6.1,4.1,2280,288,112
+248004,"Warm season: Millet Pearl, Buckwheat sunflower, Egyptian wheat, Sorghum Sudan (3 varieties); Cold Season: Season Cereal Rye, Hairy Vetch, Winter Peas, Wheat and Barley",Drilled,No-Till,Pawnee Clay Loam (7501),Cover Crop,High Crop Diversity,Grazing,No Fertilization,,-95.7591,39.5079,W1,W1_F ,Fall,11/27/2023,0,8,6.9,5.3,2274,177,127
+54192,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7516,39.5076,E2,E2_G ,Spring,4/12/2024,0,8,5.4,3.8,2257,189,78
+247941,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7553,39.5109,E1,E1_H ,Fall,11/27/2023,0,8,5.3,4.1,2256,152,109
+247993,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6666,39.3845,S4,S4_F ,Fall,11/27/2023,0,8,6.5,6.6,2255,188,80
+247964,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6646,39.382,SS1,SS1_F ,Fall,11/27/2023,0,8,6.2,3.5,2255,113,88
+247976,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6667,39.3885,S2,S2_F ,Fall,11/27/2023,0,8,6,4.1,2238,184,145
+54180,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5121,E1,E1_D ,Spring,4/12/2024,0,8,5.6,3.2,2232,192,97
+54196,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5099,E3,E3_C ,Spring,4/12/2024,0,8,5.3,3.7,2212,156,144
+247992,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6645,39.3853,S4,S4_E ,Fall,11/27/2023,0,8,5.9,5.1,2200,182,113
+247971,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6677,39.3895,S2,S2_B ,Fall,11/27/2023,0,8,6.3,4,2195,172,96
+247977,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6684,39.3875,S2,S2_G ,Fall,11/27/2023,0,8,5.5,4.2,2190,162,72
+247979,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6664,39.3875,S2,S2_I ,Fall,11/27/2023,0,8,5.9,3.7,2183,163,92
+54185,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.511,E1,E1_I ,Spring,4/12/2024,0,8,5.2,3.5,2183,210,59
+54182,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5121,E1,E1_F ,Spring,4/12/2024,0,8,5.3,3.9,2169,187,243
+54181,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7553,39.5121,E1,E1_E ,Spring,4/12/2024,0,8,5.3,3.5,2152,177,99
+247947,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7517,39.5087,E2,E2_E ,Fall,11/27/2023,0,8,5.2,4.3,2129,138,171
+247968,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6659,39.3795,SS1,SS1_J ,Fall,11/27/2023,0,8,6,3.2,2123,121,101
+247998,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3838,S4,S4_J,Fall,11/27/2023,0,8,6.1,4.8,2119,133,165
+247995,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3846,S4,S4_G ,Fall,11/27/2023,0,8,6.3,5.9,2099,219,109
+247954,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5087,E3,E3_E ,Fall,11/27/2023,0,8,5.4,4.8,2093,127,181
+54188,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7517,39.5099,E2,E2_C ,Spring,4/12/2024,0,8,4.9,3.9,2093,177,149
+247997,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3838,S4,S4_I,Fall,11/27/2023,0,8,6.1,5.3,2087,135,87
+247940,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.511,E1,E1_G ,Fall,11/27/2023,0,8,5.6,4,2071,126,168
+247949,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7516,39.5076,E2,E2_G ,Fall,11/27/2023,0,8,5.3,4.4,2067,140,223
+247996,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6647,39.3845,S4,S4_H ,Fall,11/27/2023,0,8,6.2,5.9,2067,161,168
+247943,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7532,39.5121,E2,E2_A,Fall,11/27/2023,0,8,4.8,3.9,2059,125,248
+54190,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7517,39.5087,E2,E2_E ,Spring,4/12/2024,0,8,5,3.9,2056,149,363
+247975,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6677,39.3885,S2,S2_E ,Fall,11/27/2023,0,8,6,3.5,2051,152,231
+54210,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6659,39.3805,SS1,SS1_H ,Spring,4/12/2024,0,8,6.3,2.6,2013,197,280
+54179,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5132,E1,E1_C ,Spring,4/12/2024,0,8,5.3,3.9,2009,132,103
+247945,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7517,39.5099,E2,E2_C ,Fall,11/27/2023,0,8,5.1,4.2,2007,127,85
+247946,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7528,39.5087,E2,E2_D ,Fall,11/27/2023,0,8,5.3,4.6,1996,135,124
+247962,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6676,39.3815,SS1,SS1_D ,Fall,11/27/2023,0,8,6,2.9,1995,107,88
+54203,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6677,39.3826,SS1,SS1_A ,Spring,4/12/2024,0,8,5.7,2.7,1985,168,383
+54187,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7532,39.5099,E2,E2_B ,Spring,4/12/2024,0,8,5.1,3.8,1950,189,353
+247951,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5099,E3,E3_B ,Fall,11/27/2023,0,8,5.3,4.1,1949,139,308
+247970,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6687,39.3895,S2,S2_A ,Fall,11/27/2023,0,8,6.1,4.8,1930,160,312
+247935,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5132,E1,E1_B ,Fall,11/27/2023,0,8,5.1,4.4,1921,158,198
+247991,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6656,39.3855,S4,S4_D ,Fall,11/27/2023,0,8,6,5.1,1895,153,259
+54186,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7532,39.5121,E2,E2_A,Spring,4/12/2024,0,8,5,3.6,1879,158,64
+54209,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6673,39.3805,SS1,SS1_G ,Spring,4/12/2024,0,8,5.9,2.5,1876,174,118
+247974,Soybeans,,No-Till,,Cover Crop,Low Crop Diversity,,,,-95.6687,39.3885,S2,S2_D ,Fall,11/27/2023,0,8,5.9,4.3,1834,172,89
+54178,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7554,39.5132,E1,E1_B ,Spring,4/12/2024,0,8,5.4,4,1833,127,47
+247944,Soybeans,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7532,39.5099,E2,E2_B ,Fall,11/27/2023,0,8,5.2,4.5,1811,121,73
+247988,Corn,,No-Till,,Cover Crop,High Crop Diversity,,,,-95.6654,39.3865,S4,S4_A ,Fall,11/27/2023,0,8,5.9,4.6,1803,199,44
+247955,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5087,E3,E3_F ,Fall,11/27/2023,0,8,5.4,4,1792,124,48
+247966,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6659,39.3805,SS1,SS1_H ,Fall,11/27/2023,0,8,5.8,2.7,1778,108,56
+247937,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5121,E1,E1_D ,Fall,11/27/2023,0,8,5.6,4,1732,118,109
+247936,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5132,E1,E1_C ,Fall,11/27/2023,0,8,5.2,4.8,1717,117,59
+247965,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6673,39.3805,SS1,SS1_G ,Fall,11/27/2023,0,8,5.5,2.8,1716,117,95
+247958,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5076,E3,E3_I ,Fall,11/27/2023,0,8,5.5,3.4,1686,151,204
+247959,Corn,,Conventional Till,,No Cover Crop,Low Crop Diversity,,,,-95.6677,39.3826,SS1,SS1_A ,Fall,11/27/2023,0,8,5.1,3,1676,105,292
+54177,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5132,E1,E1_A ,Spring,4/12/2024,0,8,5.8,2.9,1647,133,234
+247939,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5121,E1,E1_F ,Fall,11/27/2023,0,8,5,4.7,1635,127,251
+247952,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.5099,E3,E3_C ,Fall,11/27/2023,0,8,5.4,5,1599,148,352
+247938,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7553,39.5121,E1,E1_E ,Fall,11/27/2023,0,8,5.3,3.8,1566,100,284
+247942,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7543,39.511,E1,E1_I ,Fall,11/27/2023,0,8,5.2,4.1,1529,102,122
+247934,Corn,,No-Till,,No Cover Crop,Low Crop Diversity,,,,-95.7566,39.5132,E1,E1_A ,Fall,11/27/2023,0,8,5.4,3.4,1523,116,227
