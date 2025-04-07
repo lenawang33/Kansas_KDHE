@@ -1,0 +1,509 @@
+treatmentid,siteid,sitecode,treat_no,eu_treat_desc,treatment_start_year,eu_tillage,eu_cover_crops,eu_nutr_rate,eu_nutr_type,eu_residue,crop_phase,eu_crop_cat,eu_crop_rot,eu_grazing,eu_irrigation,eu_other_trt,cash_crop_ct,cover_crop_ct,perennial_ct,plant_species_ct
+1,18,MXAG01,1,"minimum tillage, remove all residue",2011,moderate,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,3,0,0,3
+2,18,MXAG01,2,"minimum tillage, remove partial residue",2011,moderate,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,3,0,0,3
+3,18,MXAG01,3,"no-till, remove all residue",2011,minimum,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,3,0,0,3
+4,18,MXAG01,4,"conventional tillage, remove all residue",2011,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,3,0,0,3
+5,18,MXAG01,5,"no-till, remove partial residue",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,3,0,0,3
+6,19,MXEM01,1,"continuous wheat, no-till, retain all residue",1991,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,1,none,none,,1,0,0,1
+7,19,MXEM01,2,"continuous wheat, conventional tillage remove all residue",1991,intense,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,1,none,none,,1,0,0,1
+8,19,MXEM01,3,"continuous corn, conventional tillage, retain all residue",1991,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+9,19,MXEM01,4,"continuous corn, conventional tillage, remove all residue",1991,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+10,19,MXEM01,5,"corn-wheat, no-till, retain all residue",1991,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+11,19,MXEM01,6,"corn-wheat, no-till, remove all residue",1991,minimum,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+12,19,MXEM01,7,"corn-wheat, conventional tillage, retain all residue",1991,intense,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+13,19,MXEM01,8,"corn-wheat, conventional tillage, remove all residue",1991,intense,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+14,19,MXEM01,9,"wheat-corn, permanent beds, remove wheat cut by combine; remove maize to below ear",1991,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+15,19,MXEM01,10,"continuous wheat, no-till, remove all residue",1991,minimum,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,1,none,none,,1,0,0,1
+16,19,MXEM01,11,"wheat-bean-corn, no-till, remove bean residue",1991,minimum,none ,optimal,synthetic ,partial_removal,Prior to Bean,row_crop,3,none,none,,3,0,0,3
+17,19,MXEM01,12,"continuous corn, no-till, retain all residue",1991,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+18,19,MXEM01,13,"continuous corn, no-till, remove all residue",1991,minimum,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+19,19,MXEM01,14,"wheat-corn, conventional tillage, retain all residue",1991,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+20,19,MXEM01,15,"wheat-corn, conentional tillage, remove all residue",1991,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+21,19,MXEM01,16,"wheat-corn, no-till, retain all residue",1991,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+22,19,MXEM01,17,"wheat-corn, no-till, remove all residue",1991,minimum,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+23,19,MXEM01,18,"continuous wheat, conventional tillage, retain all residue",1991,intense,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,1,none,none,,1,0,0,1
+24,20,MXEM02,1,"Wheat-Corn, Conventionally Tilled, Raised Bed, Residue Retained",1999,intense,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+25,20,MXEM02,2,"Corn-Wheat, Conventionally Tilled, Raised Bed, Residue Retained",1999,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+26,20,MXEM02,3,"Wheat-Corn, Permanent Bed, Residue Retained",1999,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+27,20,MXEM02,4,"Corn-Wheat, Permanent Bed, Residue Retained",1999,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+28,20,MXEM02,5,"Wheat-Corn, Permanent Bed, Residue Removed",1999,minimum,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,2,none,none,,2,0,0,2
+29,20,MXEM02,6,"Corn-Wheat, Permanent Bed, Residue Removed",1999,minimum,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+30,21,MXEM03,1,"triticale-corn, narrow permanent beds, residue retained",2014,moderate,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+31,21,MXEM03,2,"continuous corn, conventional tillage, residue removed",2014,moderate,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+32,21,MXEM03,3,"continuous corn, narrow beds with conventional tillage, residue retained",2014,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+33,21,MXEM03,4,"continuous corn, narrow permanent beds, residue retained ",2014,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+34,21,MXEM03,5,"corn-triticale, narrow permanent beds, residue retained",2014,minimum,none ,optimal,synthetic ,partial_removal,Prior to Triticale,row_crop,2,none,none,,2,0,0,2
+35,22,MXGT01,1,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Conventional Tillage, Wide Beds Residue Partial Retained",2011,intense,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+36,22,MXGT01,2,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Wide Beds Tillage Cereals, No-till others, Residue Partial Retained",2011,intense,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+37,22,MXGT01,3,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Wide Beds Permanent (No-till), Residue Partial Retained",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+38,22,MXGT01,4,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Wide Beds Permanent (No-till), Residue Partial Retained",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+39,22,MXGT01,5,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Wide Beds Permanent (No-till), Residue Leave Wheat, Partial Corn",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+40,22,MXGT01,6,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Wide Beds Permanent (No-till), Residue Retained",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+41,22,MXGT01,7,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Narrow Permanent Beds (No-Till), Residue Retained",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+42,22,MXGT01,8,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Narrow Permanent Beds (No-Till), Residue Retained (Corn) Partial (Wheat)",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+43,22,MXGT01,9,"Corn(T/O/OE/F)-Wheat (S/SB/B/C), Narrow Permanent Beds (No-Till), Residue Partial Retained",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+44,23,MXHG01,1,"Corn-Oats, Conventional Tillage Flat, Residue Removed",2011,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+45,23,MXHG01,2,"Corn-Oats, No-till, Narrow Permanent Beds, Residue Retained",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+46,23,MXHG01,3,"Corn-Oats, No-Till Flat, Residue Retained",2011,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+47,23,MXHG01,4,"Corn-Oats, Conventional Tillage Flat, Residue Retained",2011,intense,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+48,23,MXHG01,5,"Corn-Wheat, Conventional Tillage Flate, Residue Removed",2011,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+49,23,MXHG01,6,"Corn-Wheat, No-till, Narrow Permanent Beds, Residue Retained",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+50,24,MXMO01,1,"Corn-Fallow, Conventional Tillage, Residue Incorporated",2011,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+51,24,MXMO01,2,"Corn-Fallow, Narrow Permanent Beds, No-till, Residue Retained",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+52,24,MXMO01,3,"Corn-Fallow, Minimum Tillage, Residue Retained",2011,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+53,24,MXMO01,4,"Corn-Crotalaria, Minimum Tillage, Residue Retained",2011,intense,legume,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,1,1,0,2
+54,24,MXMO01,5,"Corn-Crotalaria, Narrow Permanent Beds, No-Till, Residue Retained",2011,minimum,legume,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,1,1,0,2
+55,25,MXMO02,1,"Peanut-Corn, No-till, Residue Retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Peanut,row_crop,2,none,none,,2,0,0,2
+56,25,MXMO02,2,"Peanut-Corn, No-till, Residue Removed",2012,minimum,none ,optimal,synthetic ,all_removed,Prior to Peanut,row_crop,2,none,none,,2,0,0,2
+57,25,MXMO02,3,"Peanut-Corn, Minimum Tillage, Residue Removed",2012,intense,none ,optimal,synthetic ,all_removed,Prior to Peanut,row_crop,2,none,none,,2,0,0,2
+58,25,MXMO02,4,"Corn-Corn, No-till, Residue Retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+59,25,MXMO02,5,"Corn-Corn, No-till, Residue Removed",2012,minimum,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+60,25,MXMO02,6,"Corn-Corn, Minimum Tillage, Residue Removed",2012,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+61,25,MXMO02,7,"Sorghum-Corn, No-till, Residue Retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Sorghum,row_crop,2,none,none,,2,0,0,2
+62,25,MXMO02,8,"Sorghum-Corn, No--till, Residue Removed",2012,minimum,none ,optimal,synthetic ,all_removed,Prior to Sorghum,row_crop,2,none,none,,2,0,0,2
+63,25,MXMO02,9,"Sorghum-Corn, Minimum Tillage, Residue Removed",2012,intense,none ,optimal,synthetic ,all_removed,Prior to Sorghum,row_crop,2,none,none,,2,0,0,2
+64,26,MXOA01,1,"Continuous Corn Minimum tillage, residue retained, native variety",2012,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+65,26,MXOA01,2,"Continuous Corn Conventional tillage, residue removed, native variety",2012,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+66,26,MXOA01,3,"Corn-Bean Minimum tillage, residue retained, H-48 variety",2012,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,2,0,0,2
+67,26,MXOA01,4,"Corn-Bean No-till, residue retained, H-48 variety",2012,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,2,0,0,2
+68,26,MXOA01,5,"Wheat-Bean-Corn Minimum tillage, residue retained, H-48 Creole White Sheath Variety",2012,intense,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,3,none,none,,3,0,0,3
+69,27,MXPU01,1,"continuous corn, conventional tillage, residue removed, chemical fertilizer only",2011,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+70,27,MXPU01,2,"continuous corn, conventional tillage, residue retained, chemical/organic fertilizer ",2011,intense,none ,optimal,synthetic_and_organic,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+71,27,MXPU01,3,"continuous corn, narrow permanent beds, residue retained, chemical/organic fertilizer",2011,minimum,none ,optimal,synthetic_and_organic,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+72,27,MXPU01,4,"corn-bean, narrow permanent beds, residue retained/chemical/organic fertilizer",2011,minimum,none ,optimal,synthetic_and_organic,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+73,27,MXPU01,5,"bean-corn, narrow permanent beds, residue retained/chemical/organic fertilizer",2011,minimum,none ,optimal,synthetic_and_organic,none_removed,Prior to Bean,row_crop,2,none,none,,2,0,0,2
+74,27,MXPU01,6,"continuous corn, conventional tillage, residue removed/chemical/organic fertilizer",2011,intense,none ,optimal,synthetic_and_organic,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+75,27,MXPU01,7,"corn-triticale_ebo, no-till, residue retained, chemical/organic fertilizer",2011,moderate,none ,optimal,synthetic_and_organic,partial_removal,Prior to Corn,row_crop,2,none,none,,3,0,0,3
+76,27,MXPU01,8,"triticale_ebo-corn, conventional tillage, residue retained, chemical/organic fertilizer",2011,intense,none ,optimal,synthetic_and_organic,partial_removal,Prior to Triticale/Ebo,row_crop,2,none,none,,3,0,0,3
+77,28,MXQT01,1,"corn-barley, no-till, conventional planting, residue partial retained",2013,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+78,28,MXQT01,2,"corn-barley, no-till, no-till planting, residue partial retained",2013,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+79,28,MXQT01,3,"corn-barley, vertical tillage, no-till planting, residue partial retained",2013,intense,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+80,28,MXQT01,4,"corn-barley, minimum tillage, residue incorporated, conventional planting",2013,moderate,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+81,28,MXQT01,5,"corn-barley, conventional tillage, residue removed, conventional planting",2013,moderate,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+82,28,MXQT01,6,"corn-barley, vertical tillage, residue partial retained, conventional planting",2013,intense,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+83,29,MXQT02,1,"continuous corn, conventional tillage, narrow beds, residue removed",2012,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+84,29,MXQT02,2,"bean-corn, wide permanent beds, residue retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+85,29,MXQT02,3,"continuous corn, conventional tillage, wide beds, residue removed",2012,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+86,29,MXQT02,4,"continuous corn, narow permanent beds, residue retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+87,29,MXQT02,5,"continuous corn, wide permanent beds, residue retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,none,,1,0,0,1
+88,29,MXQT02,6,"corn-oats, wide permanent beds, residue partial retained",2012,minimum,none ,optimal,synthetic ,partial_removal,Prior to Oats,row_crop,2,none,none,,2,0,0,2
+89,29,MXQT02,7,"oats-corn, wide permanent beds, residue partial retained",2012,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+90,29,MXQT02,8,"corn-triticale, wide permanent beds, residue partial retained ",2012,minimum,none ,optimal,synthetic ,partial_removal,Prior to Triticale,row_crop,2,none,none,,2,0,0,2
+91,29,MXQT02,9,"triticale-corn, wide permanent beds, residue partial retained",2012,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,none,,2,0,0,2
+92,29,MXQT02,10,"corn-bean, wide permanent beds, residue retained",2012,minimum,none ,optimal,synthetic ,none_removed,Prior to Bean,row_crop,2,none,none,,2,0,0,2
+93,30,MXSL01,1,"Corn_Oats/Triticale Conventional tillage, residue removed",1995,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+94,30,MXSL01,2,"Corn_Oats/Triticale Minimum tillage, residue removed",1995,moderate,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+95,30,MXSL01,3,"Corn_Oats/Triticale Reduced tillage, residue removed",1995,intense,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+96,30,MXSL01,4,"Corn_Oats/Triticale Wide permanent beds, residue removed",1995,minimum,none ,optimal,synthetic ,all_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+97,30,MXSL01,5,"Corn_Oats/Triticale Wide permanent beds, residue partially retained - low",1995,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+98,30,MXSL01,6,"Corn_Oats/Triticale Wide permenent beds, residue partially retained -high",1995,minimum,none ,optimal,synthetic ,partial_removal,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+99,30,MXSL01,7,"Corn_Oats/Triticale Wide permanent beds, residue retained",1995,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+100,31,MXSO01,1,"continuous corn narrow permanent beds, residue retained,  4 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,surface ,,1,0,0,1
+101,31,MXSO01,2,"corn-safflower narrow permanent beds, residue retained, 2 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Safflower,row_crop,2,none,surface ,,2,0,0,2
+102,31,MXSO01,3,"corn-wheat narrow permanent beds, residue retained, 4 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+103,31,MXSO01,4,"safflower-wheat narrow permanent beds, residue retained, 2 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Safflower,row_crop,2,none,surface ,,2,0,0,2
+104,31,MXSO01,5,"continuous corn narrow beds with conventional tillage, residue retained, 4 irrigations",2011,intense,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,1,none,surface ,,1,0,0,1
+105,31,MXSO01,6,"continuous safflower narrow beds with conventional tillage, residue retained, 2 irrigations",2011,intense,none ,optimal,synthetic ,none_removed,Prior to Safflower,row_crop,1,none,surface ,,1,0,0,1
+106,31,MXSO01,7,"continuous wheat narrow permanent beds, residue retained, 2 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,1,none,surface ,,1,0,0,1
+107,31,MXSO01,8,"wheat-corn narrow permanent beds, residue retained, 4 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+108,31,MXSO01,9,"safflower-corn narrow permanent beds, residue retained, 4 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,2,none,surface ,,2,0,0,2
+109,31,MXSO01,10,"continuous safflower narrow permanent beds, residue retained, 2 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Safflower,row_crop,1,none,surface ,,1,0,0,1
+110,31,MXSO01,11,"wheat-safflower narrow permanent beds, residue retained, 3 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+111,31,MXSO01,12,"safflower-corn narrow permanent beds, residue retained, 2 irrigations",2011,minimum,none ,optimal,synthetic ,none_removed,Prior to Safflower,row_crop,2,none,surface ,,2,0,0,2
+112,31,MXSO01,13,"continuous wheat narrow beds with conventioal tillage, residue retained, 2 irrigations",2011,intense,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,1,none,surface ,,1,0,0,1
+113,32,MXSO02,1,"Wheat-Corn, Conventional Tillage, Incorporate Residue, 0 Nitrogen",2013,moderate,none ,none,synthetic ,none_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+114,32,MXSO02,2,"Wheat-Corn, Permanent Beds, Residue Retained, 300 Nitrogen",2013,moderate,none ,optimal,synthetic ,none_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+115,32,MXSO02,3,"Wheat-Corn, Permanent Beds, Residue Burned, 0 Nitrogen",2013,minimum,none ,none,synthetic ,all_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+116,32,MXSO02,4,"Wheat-Corn, Permanent Beds, Residue Removed 0 Nitrogen",2013,minimum,none ,none,synthetic ,all_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+117,32,MXSO02,5,"Wheat-Corn, Permanent Beds, Residue Partial Retained, 0 Nitrogen",2013,minimum,none ,none,synthetic ,partial_removal,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+118,32,MXSO02,6,"Wheat-Corn, Permanent Beds, Residue Retained, 0 Nitrogen",2013,minimum,none ,none,synthetic ,none_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+119,32,MXSO02,7,"Wheat-Corn, Conventional Tillage, Incorporate Residue, 300 Nitrogen",2013,moderate,none ,optimal,synthetic ,none_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+120,32,MXSO02,8,"Wheat-Corn, Permanent Beds, Residue Burned, 300 Nitrogen",2013,minimum,none ,optimal,synthetic ,all_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+121,32,MXSO02,9,"Wheat-Corn, Permanent Beds, Residue Removed 300 Nitrogen",2013,minimum,none ,optimal,synthetic ,all_removed,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+122,32,MXSO02,10,"Wheat-Corn, Permanent Beds, Residue Partial Retained, 300 Nitrogen",2013,minimum,none ,optimal,synthetic ,partial_removal,Prior to corn,row_crop,2,none,surface ,,2,0,0,2
+123,33,MXSO03,1,"continuous wheat, narrow beds with conventional tillage, residue retained",1992,moderate,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,1,none,surface ,,1,0,0,1
+124,33,MXSO03,2,"corn-grain sorghum-wheat-fallow, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,3,none,surface ,,3,0,0,3
+125,33,MXSO03,3,"wheat-fallow-corn-grain sorghum, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Corn,row_crop,3,none,surface ,,3,0,0,3
+126,33,MXSO03,4,"wheat-fallow-chickpea-fallow, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Chickpea,row_crop,2,none,surface ,,2,0,0,2
+127,33,MXSO03,5,"chickpea-fallow-wheat-fallow, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+128,33,MXSO03,6,"wheat-fallow-safflower-fallow, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Safflower,row_crop,2,none,surface ,,2,0,0,2
+129,33,MXSO03,7,"continuous wheat, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,1,none,surface ,,1,0,0,1
+130,33,MXSO03,8,"safflower-fallow-wheat-fallow, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+131,33,MXSO03,9,"wheat-sorghum, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+132,33,MXSO03,10,"wheat-corn, narrow beds with conventional tillage, residue retained",1992,moderate,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+133,33,MXSO03,11,"wheat-corn, narrow beds with conventional tillage, residue burned",1992,moderate,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+134,33,MXSO03,12,"wheat-corn, narrow permanent beds, residue retained",1992,minimum,none ,optimal,synthetic ,none_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+135,33,MXSO03,13,"wheat-corn, narrow permanent beds, residue burned",1992,minimum,none ,optimal,synthetic ,all_removed,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+136,33,MXSO03,14,"wheat-corn, narrow permanent beds, residue partial retained",1992,minimum,none ,optimal,synthetic ,partial_removal,Prior to Wheat,row_crop,2,none,surface ,,2,0,0,2
+137,34,USAL01,1,corn-wheat (grain)-soybean-wheat (cover crop) rotation [soybean]; conventional till,1980,intense,grasses,optimal,synthetic ,none_removed,Before corn,row_crop,3,none,none,,3,1,0,4
+138,34,USAL01,2,corn-wheat (grain)-soybean-wheat (cover crop) rotation [soybean]; no till (long-term),1980,minimum,grasses,optimal,synthetic ,none_removed,Before corn,row_crop,3,none,none,,3,1,0,4
+139,34,USAL01,3,corn-wheat (grain)-soybean-wheat (cover crop) rotation [soybean]; poultry litter; conventional till,1980,intense,grasses,optimal,organic,none_removed,Before corn,row_crop,3,none,none,,3,1,0,4
+140,34,USAL01,4,corn-wheat (grain)-soybean-wheat (cover crop) rotation [soybean]; poultry litter; no till (long-term),1980,minimum,grasses,optimal,organic,none_removed,Before corn,row_crop,3,none,none,,3,1,0,4
+141,34,USAL01,5,soybean-wheat (cover crop)-corn-wheat (grain) rotation [wheat (grain)]; conventional till,1980,intense,grasses,optimal,synthetic ,none_removed,Before soybean,row_crop,3,none,none,,3,1,0,4
+142,34,USAL01,6,soybean-wheat (cover crop)-corn-wheat (grain) rotation [wheat (grain)]; no till (long-term),1980,minimum,grasses,optimal,synthetic ,none_removed,Before soybean,row_crop,3,none,none,,3,1,0,4
+143,34,USAL01,7,soybean-wheat (cover crop)-corn-wheat (grain) rotation [wheat (grain)]; poultry litter; conventional till,1980,intense,grasses,optimal,organic,none_removed,Before soybean,row_crop,3,none,none,,3,1,0,4
+144,34,USAL01,8,soybean-wheat (cover crop)-corn-wheat (grain) rotation [wheat (grain)]; poultry litter; no till (long-term),1980,minimum,grasses,optimal,organic,none_removed,Before soybean,row_crop,3,none,none,,3,1,0,4
+145,35,USAL02,1,"continuous cotton, fallow, 0 N, spring P & K",1896,moderate,none ,low,synthetic ,none_removed,Before Cotton,row_crop,1,none,none,,1,0,0,1
+146,35,USAL02,2,"continuous cotton, fallow, 120 N, spring P & K",1896,moderate,none ,optimal,synthetic ,none_removed,Before Cotton,row_crop,1,none,none,,1,0,0,1
+147,35,USAL02,3,"continuous cotton, winter legume, 0 N, fall P and K",1896,moderate,legume,low,synthetic ,none_removed,Before Cotton,row_crop,1,none,none,,1,1,0,2
+148,35,USAL02,4,"continuous cotton, winter legume, 0 N, fall and spring P and K",1896,moderate,legume,low,synthetic ,none_removed,Before Cotton,row_crop,1,none,none,,1,1,0,2
+149,35,USAL02,5,"continuous cotton, winter legume, 0 N, spring P and K",1896,moderate,legume,low,synthetic ,none_removed,Before Cotton,row_crop,1,none,none,,1,1,0,2
+150,35,USAL02,6,"cotton - corn rotation (corn), winter legume, 0 N, fall and spring (cotton only) P and K",1896,moderate,legume,low,synthetic ,none_removed,Before corn,row_crop,2,none,none,,2,1,0,3
+151,35,USAL02,7,"cotton - corn rotation (corn), winter legume, 120 N , fall and spring (corn only) P and K",1896,moderate,legume,optimal,synthetic ,none_removed,Before corn,row_crop,2,none,none,,2,1,0,3
+152,35,USAL02,8,"cotton-corn rotation (cotton),  winter legume, 0 N, fall and spring (cotton only) P and K",1896,moderate,legume,low,synthetic ,none_removed,Before Cotton,row_crop,2,none,none,,2,1,0,3
+153,35,USAL02,9,"cotton - corn rotation, winter legume, 120 N , fall and spring (corn only) P and K",1896,moderate,legume,optimal,synthetic ,none_removed,Before Cotton,row_crop,2,none,none,,2,1,0,3
+154,35,USAL02,10,"cotton-corn-wheat/soybean rotation (corn), winter legume, 0 N, fall and spring (cotton only) P and K",1896,moderate,legume,low,synthetic ,none_removed,Before corn,row_crop,greater_than_3,none,none,,4,1,0,5
+155,35,USAL02,11,"cotton-corn-wheat/soybean rotation (cotton, winter legume, 0 N, fall and spring (cotton only) P and K",1896,moderate,legume,low,synthetic ,none_removed,Before Cotton,row_crop,greater_than_3,none,none,,4,1,0,5
+156,35,USAL02,12,"cotton-corn-wheat/soybean rotation (wheat/soybean), winter legume, 0 N, fall and spring (cotton only) P and K",1896,moderate,legume,low,synthetic ,none_removed,End of winter wheat (before soybean),row_crop,greater_than_3,none,none,,4,1,0,5
+157,36,USAL03,1,bahiagrass-bahiagrass-peanut-cotton rotation [peanut]; moldboard plow,2002,intense,grasses,optimal,synthetic ,partial_removal,Peanut,integrated_row_crop_and_perennial,3,none,sprinkler,,2,2,1,5
+158,36,USAL03,2,bahiagrass-bahiagrass-peanut-cotton rotation [peanut]; strip till,2002,moderate,grasses,optimal,synthetic ,partial_removal,Peanut,integrated_row_crop_and_perennial,3,none,sprinkler,,2,2,1,5
+159,36,USAL03,3,peanut-cotton rotation [peanut]; molboard plow,2002,intense,grasses,optimal,synthetic ,none_removed,Peanut,row_crop,2,none,sprinkler,,2,2,0,4
+160,36,USAL03,4,peanut-cotton rotation [peanut]; strip till,2002,moderate,grasses,optimal,synthetic ,none_removed,Peanut,row_crop,2,none,sprinkler,,2,2,0,4
+161,37,USAL04,1,bahiagrass-bahiagrass-peanut-cotton rotation [peanut]; grazed,2002,moderate,grasses,optimal,synthetic ,partial_removal,Peanut,integrated_row_crop_and_perennial,3,medium_biomass_removal,sprinkler,,2,2,1,5
+162,37,USAL04,2,bahiagrass-bahiagrass-peanut-cotton rotation [peanut]; non-grazed,2002,moderate,grasses,optimal,synthetic ,partial_removal,Peanut,integrated_row_crop_and_perennial,3,none,sprinkler,,2,2,1,5
+163,37,USAL04,3,peanut-cotton rotation [peanut]; non-grazed,2002,moderate,grasses,optimal,synthetic ,none_removed,Peanut,row_crop,2,none,sprinkler,,2,2,0,4
+164,38,USAR01,1,hayed,2001,none,none ,optimal,organic,all_removed,Forage,perennial,perennial_or_na,none,none,,1,0,0,1
+165,38,USAR01,2,overgrazed,2001,none,none ,optimal,organic,partial_removal,Forage,perennial,perennial_or_na,high_biomass_removal,none,,0,0,1,1
+166,38,USAR01,3,rotationally grazed,2001,none,none ,optimal,organic,partial_removal,Forage,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,1,1
+167,39,USAZ01,3,rangeland lightly grazed,1975,none,none ,n_a,organic,partial_removal,dry senescent range grasses,perennial,perennial_or_na,low_biomass_removal,none,,0,0,8,8
+168,39,USAZ01,4,rangeland lightly grazed with mesquite removal,1975,none,none ,n_a,organic,partial_removal,dry senescent range grasses,perennial,perennial_or_na,low_biomass_removal,none,rangeland improvement mesquite removal,0,0,8,8
+169,41,USAZ03,1,rangeland grazing exclosure,1935,none,none ,none,none,none_removed,dry senescent range grasses,non_farmed,perennial_or_na,none,none,,0,0,8,8
+170,41,USAZ03,2,rangeland heavily grazed,1902,none,none ,n_a,organic,partial_removal,dry senescent range grasses,perennial,perennial_or_na,high_biomass_removal,none,,0,0,8,8
+171,42,USCA01,1,rainfed wheat fallow control,1994,intense,none ,none,none,all_removed,winter wheat,row_crop,1,none,none,,1,0,0,1
+172,42,USCA01,2,rainfed wheat fallow fertilized,1994,intense,none ,optimal,synthetic ,all_removed,winter wheat,row_crop,1,none,none,,1,0,0,1
+173,42,USCA01,3,rainfed wheat legume cover crop,1994,intense,mix,optimal,synthetic ,all_removed,winter wheat,row_crop,1,none,none,,1,3,0,4
+174,43,USCA02,1,cc_maize_cc_tomato_compost_irr,1994,intense,mix,optimal,organic,partial_removal,"active cover crop, going into corn",row_crop,2,none,drip,organic,2,3,0,5
+175,43,USCA02,2,legume_maize_legume_tomato_fert_irr,1994,intense,mix,optimal,synthetic ,partial_removal,"active cover crop, going into corn",row_crop,2,none,drip,,2,3,0,5
+176,43,USCA02,3,maize_tomato_fert_irr,1994,intense,none ,optimal,synthetic ,partial_removal,going into corn,row_crop,2,none,drip,,2,0,0,2
+177,43,USCA02,4,native_grassland_rainfed,2012,none,none ,none,none,none_removed,several varieties of perrenial native grass,non_farmed,perennial_or_na,none,drip,,0,0,4,4
+178,44,USCA03,1,cover crop; conservation tillage,1999,minimum,mix,optimal,synthetic ,partial_removal,cover crop going into sorghum,row_crop,2,none,drip,,2,5,0,7
+179,44,USCA03,2,cover crop; standard tillage,1999,intense,mix,optimal,synthetic ,partial_removal,cover crop going into sorghum,row_crop,2,none,drip,,2,5,0,7
+180,44,USCA03,4,no cover crop; conservation tillage,1999,minimum,none ,optimal,synthetic ,partial_removal,fallow going into sorghum,row_crop,2,none,drip,,2,0,0,2
+181,44,USCA03,5,no cover crop; standard tillage,1999,intense,none ,optimal,synthetic ,partial_removal,fallow going into sorghum,row_crop,2,none,drip,,2,0,0,2
+182,45,USCO01,1,opportunity slope,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Slope,2,0,0,2
+183,45,USCO01,2,opportunity summit,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Summit ,2,0,0,2
+184,45,USCO01,3,opportunity toe,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Toe,2,0,0,2
+185,45,USCO01,4,sod slope,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Slope,0,0,8,8
+186,45,USCO01,5,sod summit,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Summit ,0,0,8,8
+187,45,USCO01,6,sod toe,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Toe,0,0,8,8
+188,45,USCO01,7,winter wheat/fallow slope,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Slope,1,0,0,1
+189,45,USCO01,8,winter wheat/fallow summit,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Summit ,1,0,0,1
+190,45,USCO01,9,winter wheat/fallow toe,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Toe,1,0,0,1
+191,45,USCO01,10,winter wheat/grain sorghum/fallow slope,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Slope,2,0,0,2
+192,45,USCO01,11,winter wheat/grain sorghum/fallow summit,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Summit ,2,0,0,2
+193,45,USCO01,12,winter wheat/grain sorghum/fallow toe,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Toe,2,0,0,2
+194,46,USCO02,1,opportunity slope,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Slope,3,0,0,3
+195,46,USCO02,2,opportunity summit,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Summit ,3,0,0,3
+196,46,USCO02,3,opportunity toe,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Toe,3,0,0,3
+197,46,USCO02,4,sod slope,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Slope,0,0,8,8
+198,46,USCO02,5,sod summit,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Summit ,0,0,8,8
+199,46,USCO02,6,sod toe,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Toe,0,0,8,8
+200,46,USCO02,7,winter wheat/corn/fallow slope,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Slope,3,0,0,3
+201,46,USCO02,8,winter wheat/corn/fallow summit,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Summit ,3,0,0,3
+202,46,USCO02,9,winter wheat/corn/fallow toe,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Toe,3,0,0,3
+203,46,USCO02,10,winter wheat/fallow slope,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Slope,1,0,0,1
+204,46,USCO02,11,winter wheat/fallow summit,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Summit ,1,0,0,1
+205,46,USCO02,12,winter wheat/fallow toe,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Toe,1,0,0,1
+206,47,USCO03,1,opportunity slope,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Slope,3,0,0,3
+207,47,USCO03,2,opportunity summit,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Summit ,3,0,0,3
+208,47,USCO03,3,opportunity toe,1985,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,Toe,3,0,0,3
+209,47,USCO03,4,sod slope,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Slope,0,0,8,8
+210,47,USCO03,5,sod summit,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Summit ,0,0,8,8
+211,47,USCO03,6,sod toe,1985,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,Toe,0,0,8,8
+212,47,USCO03,7,winter wheat/corn/fallow slope,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Slope,3,0,0,3
+213,47,USCO03,8,winter wheat/corn/fallow summit,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Summit ,3,0,0,3
+214,47,USCO03,9,winter wheat/corn/fallow toe,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,Toe,3,0,0,3
+215,47,USCO03,10,winter wheat/fallow slope,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Slope,1,0,0,1
+216,47,USCO03,11,winter wheat/fallow summit,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Summit ,1,0,0,1
+217,47,USCO03,12,winter wheat/fallow toe,1985,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,Toe,1,0,0,1
+218,48,USCO04,1,winter wheat/corn/fallow biosolids,1999,minimum,none ,optimal,organic,none_removed,Fallow,row_crop,2,none,none,,2,0,0,2
+219,48,USCO04,2,winter wheat/corn/fallow inorganic,1999,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,2,none,none,,2,0,0,2
+220,48,USCO04,3,winter wheat/fallow biosolids,1999,minimum,none ,optimal,organic,none_removed,Fallow,row_crop,1,none,none,,1,0,0,1
+221,48,USCO04,4,winter wheat/fallow inorganic,1999,minimum,none ,optimal,synthetic ,none_removed,Fallow,row_crop,1,none,none,,1,0,0,1
+222,49,USCO05,1,heavy grazing,1939,none,none ,none,none,partial_removal,,perennial,perennial_or_na,high_biomass_removal,none,,0,0,8,8
+223,49,USCO05,2,light grazing,1939,none,none ,none,none,partial_removal,,perennial,perennial_or_na,low_biomass_removal,none,,0,0,8,8
+224,49,USCO05,3,medium grazing,1939,none,none ,none,none,partial_removal,,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,8,8
+225,49,USCO05,4,no grazing,1939,none,none ,none,none,none_removed,,non_farmed,perennial_or_na,no grazing,none,,0,0,8,8
+226,50,USDE01,1,0 lbs of poultry litter and 136 lbs triple super phosphate,2000,moderate,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,,2,0,0,2
+227,50,USDE01,2,110.2 lbs of poultry litter and 0 lbs triple super phosphate,2000,moderate,none ,optimal,organic,none_removed,Corn,row_crop,2,none,none,,2,0,0,2
+228,51,USFL01,1,bahiagrass-bahiagrass-peanut-cotton rotation [bahia2]; grazed,2002,moderate,grasses,optimal,synthetic ,partial_removal,second year bahiagrass,integrated_row_crop_and_perennial,3,medium_biomass_removal,sprinkler,,2,2,1,5
+229,51,USFL01,2,bahiagrass-bahiagrass-peanut-cotton rotation [bahia2]; non-grazed,2002,moderate,grasses,optimal,synthetic ,partial_removal,second year bahiagrass,integrated_row_crop_and_perennial,3,no grazing,sprinkler,,3,2,0,5
+230,52,USFL02,1,bahiagrass-bahiagrass-peanut-cotton rotation [peanut]; irrigated; nematicide,2000,moderate,grasses,optimal,synthetic ,partial_removal,Peanut,integrated_row_crop_and_perennial,3,none,sprinkler,nematicide,2,1,1,4
+231,52,USFL02,2,peanut-cotton-cotton rotation [peanut]; irrigated; nematicide,2000,moderate,grasses,optimal,synthetic ,none_removed,Peanut,row_crop,2,none,sprinkler,nematicide,2,1,0,3
+232,53,USGA01,1,rotation phase [peanut]; conventional till,1997,intense,grasses,optimal,synthetic ,none_removed,Peanut,row_crop,greater_than_3,none,sprinkler,,4,2,0,6
+233,53,USGA01,2,rotation phase [peanut]; strip till,1997,moderate,grasses,optimal,synthetic ,none_removed,Peanut,row_crop,greater_than_3,none,sprinkler,,4,2,0,6
+234,54,USIA01,1,continuous_prarie_unfertilized,2007,none,none ,none,synthetic ,all_removed,prairie,perennial,perennial_or_na,none,none,,8,0,0,8
+235,54,USIA01,2,corn; soybean,2007,minimum,none ,optimal,synthetic ,none_removed,soybean,row_crop,2,none,none,,2,0,0,2
+236,54,USIA01,3,corn; soybean control,2007,minimum,none ,optimal,synthetic ,none_removed,soybean,row_crop,2,none,none,,2,0,0,2
+237,55,USIA02,1,continuous_corn_w_stover_removal,2008,minimum,none ,optimal,synthetic ,all_removed,corn,row_crop,1,none,none,,1,0,0,1
+238,55,USIA02,2,continuous_corn_w_stover_removal_winter_cover_crop,2008,minimum,grasses,optimal,synthetic ,all_removed,corn,row_crop,1,none,none,,1,1,0,2
+239,55,USIA02,3,continuous_prairie_fertilized,2008,none,none ,optimal,synthetic ,all_removed,prairie,perennial,perennial_or_na,none,none,,8,0,0,8
+240,55,USIA02,4,continuous_prairie_unfertilized,2008,none,none ,none,none,all_removed,prairie,perennial,perennial_or_na,none,none,,8,0,0,8
+241,55,USIA02,5,corn; soybean,2008,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+242,55,USIA02,6,soybean; corn,2008,minimum,none ,optimal,synthetic ,none_removed,soybean,row_crop,2,none,none,,2,0,0,2
+243,56,USIA03,1,corn; soybean,2002,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+244,56,USIA03,2,corn; soybean; oat + red clover,2002,intense,none ,optimal,synthetic_and_organic,partial_removal,corn,row_crop,3,none,none,,4,0,0,4
+245,56,USIA03,3,corn; soybean; oat/alfalfa; alfalfa,2002,intense,none ,optimal,synthetic_and_organic,partial_removal,corn,integrated_row_crop_and_perennial,greater_than_3,none,none,,4,0,0,4
+246,57,USID01,1,10t/a annual,2012,moderate,none ,optimal,synthetic_and_organic,all_removed,barley planted two weeks ago,row_crop,greater_than_3,none,sprinkler,,4,0,0,4
+247,57,USID01,2,30t/a annual,2012,moderate,none ,optimal,synthetic_and_organic,all_removed,barley planted two weeks ago,row_crop,greater_than_3,none,sprinkler,,4,0,0,4
+248,57,USID01,3,no fert control,2012,moderate,none ,none,none,all_removed,barley planted two weeks ago,row_crop,greater_than_3,none,sprinkler,,4,0,0,4
+249,57,USID01,4,synthetic fertilizer,2012,moderate,none ,optimal,synthetic ,all_removed,barley planted two weeks ago,row_crop,greater_than_3,none,sprinkler,,4,0,0,4
+250,59,USIN01,1,"fall chisel plow, secondary spring tillage; corn corn",1975,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+251,59,USIN01,2,"fall chisel plow, secondary spring tillage; corn soybean",1975,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+252,59,USIN01,3,"fall chisel plow, secondary spring tillage; soybean soybean",1975,moderate,none ,optimal,synthetic ,none_removed,soybean,row_crop,1,none,none,,1,0,0,1
+253,59,USIN01,4,"fall moldboard plow, secondary spring tillage; corn corn",1975,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+254,59,USIN01,5,"fall moldboard plow, secondary spring tillage; corn soybean",1975,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+255,59,USIN01,6,"fall moldboard plow, secondary spring tillage; soybean soybean",1975,intense,none ,optimal,synthetic ,none_removed,soybean,row_crop,1,none,none,,1,0,0,1
+256,59,USIN01,7,no till; corn corn,1975,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+257,59,USIN01,8,no till; corn soybean,1975,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+258,59,USIN01,9,no till; soybean soybean,1975,minimum,none ,optimal,synthetic ,none_removed,soybean,row_crop,1,none,none,,1,0,0,1
+259,60,USKS01,1,chemical fallow; 0 nitrogen,2007,minimum,none ,none,synthetic ,none_removed,Sorghum,row_crop,3,none,none,,3,0,0,3
+260,60,USKS01,2,chemical fallow; 120 lbs of n/acre,2007,minimum,none ,optimal,synthetic ,none_removed,Sorghum,row_crop,3,none,none,,3,0,0,3
+261,60,USKS01,3,double crop-soy; 0 nitrogen,2007,minimum,none ,none,synthetic ,none_removed,Sorghum,row_crop,3,none,none,,3,0,0,3
+262,60,USKS01,4,double crop-soy; 120 lbs of n/acre,2007,minimum,none ,optimal,synthetic ,none_removed,Sorghum,row_crop,3,none,none,,3,0,0,3
+263,60,USKS01,5,summer covercrop before sorghum; 0 nitrogen,2007,minimum,mix,none,synthetic ,none_removed,Sorghum,row_crop,greater_than_3,none,none,,3,8,0,11
+264,60,USKS01,6,summer covercrop before sorghum; 120 lbs of n/acre,2007,minimum,mix,optimal,synthetic ,none_removed,Sorghum,row_crop,greater_than_3,none,none,,3,8,0,11
+265,61,USKS02,1,sod,1988,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,,0,0,8,8
+266,61,USKS02,2,winter wheat/grain sorghum/fallow conventional till,1988,moderate,none ,optimal,synthetic ,none_removed,Winter Wheat,row_crop,2,none,none,,2,0,0,2
+267,61,USKS02,3,winter wheat/grain sorghum/fallow no till,1988,minimum,none ,optimal,synthetic ,none_removed,Winter Wheat,row_crop,2,none,none,,2,0,0,2
+268,61,USKS02,4,winter wheat/grain sorghum/fallow reduced till,1988,moderate,none ,optimal,synthetic ,none_removed,Winter Wheat,row_crop,2,none,none,,2,0,0,2
+269,62,USKY01,1,chisel disk,1992,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,3,none,none,,3,0,0,3
+270,62,USKY01,2,no till,1992,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,3,none,none,,3,0,0,3
+271,63,USKY02,1,continuous corn; 0n,1986,minimum,none ,none,none,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+272,63,USKY02,2,continuous corn; 160n,1986,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+273,63,USKY02,3,"soy, soy, corn; 0n",1986,minimum,none ,none,none,none_removed,Soy,row_crop,2,none,none,,2,0,0,2
+274,63,USKY02,4,"soy, soy, corn; 160n",1986,minimum,none ,optimal,synthetic ,none_removed,Soy,row_crop,2,none,none,,2,0,0,2
+275,63,USKY02,5,"wheat/soy, corn; 0n",1986,minimum,none ,none,none,none_removed,wheat/soy,row_crop,3,none,none,,3,0,0,3
+276,63,USKY02,6,"wheat/soy, corn; 160n",1986,minimum,none ,optimal,synthetic ,none_removed,wheat/soy,row_crop,3,none,none,,3,0,0,3
+277,64,USKY03,1,"no till, 0n",1970,minimum,grasses,none,none,none_removed,corn,row_crop,1,none,none,,1,1,0,2
+278,64,USKY03,2,"no till, 150 lbs n/ac",1970,minimum,grasses,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,1,0,2
+279,64,USKY03,3,"spring moldboard plow, secondary spring tillage, 0n",1970,intense,grasses,none,none,none_removed,corn,row_crop,1,none,none,,1,1,0,2
+280,64,USKY03,4,"spring moldboard plow, secondary spring tillage, 150 lbs n/ac",1970,intense,grasses,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,1,0,2
+281,66,USMI01,1,conventional tillage; 9 ton dry dairy compost,2009,intense,mix,optimal,synthetic_and_organic,none_removed,after brocolli into beans,row_crop,greater_than_3,none,none,,4,2,0,6
+282,66,USMI01,2,conventional tillage; no compost control,2009,intense,mix,optimal,synthetic ,none_removed,after brocolli into beans,row_crop,greater_than_3,none,none,,4,2,0,6
+283,66,USMI01,3,strip tillage; 9 ton dry dairy compost,2009,moderate,mix,optimal,synthetic_and_organic,none_removed,after brocolli into beans,row_crop,greater_than_3,none,none,,4,2,0,6
+284,66,USMI01,4,strip tillage; no compost control,2009,moderate,mix,optimal,synthetic ,none_removed,after brocolli into beans,row_crop,greater_than_3,none,none,,4,2,0,6
+285,67,USMI02,1,moldboard; no_cover_crop,2008,intense,none ,optimal,synthetic ,none_removed,after sweet corn going into beans,row_crop,greater_than_3,none,none,,3,0,0,3
+286,67,USMI02,2,moldboard; rye-vetch or vetch,2008,intense,mix,optimal,synthetic ,none_removed,after sweet corn going into beans,row_crop,greater_than_3,none,none,,3,2,0,5
+287,67,USMI02,3,moldboard; winter_cereal_rye,2008,intense,grasses,optimal,synthetic ,none_removed,after sweet corn going into beans,row_crop,greater_than_3,none,none,,3,1,0,4
+288,67,USMI02,4,strip-till; no_cover_crops,2008,moderate,none ,optimal,synthetic ,none_removed,after sweet corn going into beans,row_crop,greater_than_3,none,none,,3,0,0,3
+289,67,USMI02,5,strip-till; rye/vetch or vetch,2008,moderate,mix,optimal,synthetic ,none_removed,after sweet corn going into beans,row_crop,greater_than_3,none,none,,3,2,0,5
+290,67,USMI02,6,strip-till; winter_cereal_rye,2008,moderate,grasses,optimal,synthetic ,none_removed,after sweet corn going into beans,row_crop,greater_than_3,none,none,,3,1,0,4
+291,68,USMI03,1,corn,2000,intense,none ,none,none,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+292,68,USMI03,2,corn; soybean,2000,intense,none ,none,none,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+293,68,USMI03,3,corn; soybean; wheat,2000,intense,none ,none,none,none_removed,corn,row_crop,3,none,none,,3,0,0,3
+294,68,USMI03,4,corn_legume_cover,2000,intense,legume,none,none,none_removed,corn,row_crop,1,none,none,,1,1,0,2
+295,68,USMI03,5,corn_legume_cover; soybean; wheat_legume_cover,2000,intense,legume,none,none,none_removed,corn,row_crop,3,none,none,,3,1,0,4
+296,68,USMI03,6,corn_legume_small_grain_cover; soybean; wheat_legume_small_grain_cover,2000,intense,mix,none,none,none_removed,corn,row_crop,3,none,none,,3,2,0,5
+297,68,USMI03,7,fallow_fall_cultivated,2000,moderate,none ,none,none,none_removed,fallow,row_crop,perennial_or_na,none,none,,0,0,0,0
+298,68,USMI03,8,tilled_cultivated,2000,intense,none ,none,none,none_removed,no_crop,row_crop,perennial_or_na,none,none,,0,0,0,0
+299,69,USMI04,1,alfalfa,1989,none,none ,optimal,synthetic ,all_removed,alfalfa,perennial,1,none,none,,1,0,0,1
+300,69,USMI04,2,corn; soybean; winter_wheat; certified_organic: post_planting_cultivation; rotary_hoed,1989,intense,none ,none,none,none_removed,winter_wheat,row_crop,3,none,none,,3,0,0,3
+301,69,USMI04,3,corn; soybean; winter_wheat; conventional_chemical_inputs; chisel_plow,1993,intense,none ,optimal,synthetic ,none_removed,winter_wheat,row_crop,3,none,none,,3,0,0,3
+302,69,USMI04,4,corn; soybean; winter_wheat; conventional_chemical_inputs; no_till,1993,minimum,none ,optimal,synthetic ,none_removed,winter_wheat,row_crop,3,none,none,,3,0,0,3
+303,69,USMI04,5,corn; soybean; winter_wheat;banded_herbicide_at_planting; starter_n_at_planting; post_planting_cultivation,1989,intense,mix,low,synthetic ,none_removed,winter_wheat,row_crop,3,none,none,,3,0,0,3
+304,69,USMI04,6,native_successional,1997,none,none ,none,none,all_removed,soil_near_native_successional,perennial,greater_than_3,none,none,,0,0,8,8
+305,69,USMI04,7,never_plowed_benchmark,1989,minimum,none ,optimal,synthetic ,none_removed,native grasses,row_crop,3,none,none,,3,0,0,3
+306,69,USMI04,8,populus_clone,1989,none,none ,optimal,synthetic ,none_removed,soil_near_populus_clone,woody_perennial,1,none,none,,1,0,0,1
+307,71,USMN02,1,corn+rye; soybean+rye,2014,moderate,grasses,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,1,0,3
+308,71,USMN02,2,corn; corn; alfalfa; alfalfa; alfalfa,2014,intense,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,greater_than_3,none,none,,2,0,0,2
+309,71,USMN02,3,corn; soybean,2014,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+310,72,USMN03,1,fall_strip; corn; soybean,1986,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+311,72,USMN03,2,moldboard; corn;soybean,1986,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+312,72,USMN03,3,no_till; corn; soybean,1986,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+313,72,USMN03,4,spring_conservation_till; corn; soybean,1986,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+314,73,USMN04,1,corn+rye; soybean+rye,2014,moderate,grasses,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,1,0,3
+315,73,USMN04,2,corn; corn; alfalfa; alfalfa; alfalfa,2014,intense,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,greater_than_3,none,none,,2,0,0,2
+316,73,USMN04,3,corn; soybean,2014,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+317,74,USMO01,1,grass/legume; cs 6; summit,1991,none,none ,optimal,synthetic ,all_removed,corn,perennial,perennial_or_na,none,none,,5,0,0,5
+318,74,USMO01,2,icm no till; cs 5; summit,1991,minimum,mix,optimal,synthetic ,none_removed,corn/covercrop,row_crop,3,none,none,,3,5,0,8
+319,74,USMO01,3,minimal till corn; no till soybean; cs 1.5; summit,1991,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+320,74,USMO01,4,no till corn/soybean; cs 2; summit,1991,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+321,75,USMO02,1,corn soy wheat; fertility,1950,intense,none ,optimal,synthetic ,none_removed,,row_crop,3,none,none,,3,0,0,3
+322,75,USMO02,2,corn soy wheat; fertility minus k,1950,intense,none ,low,synthetic ,none_removed,,row_crop,3,none,none,,3,0,0,3
+323,75,USMO02,3,corn soy wheat; fertility minus p,1950,intense,none ,low,synthetic ,none_removed,,row_crop,3,none,none,,3,0,0,3
+324,75,USMO02,4,corn soy wheat; manure,1950,intense,none ,optimal,organic,none_removed,,row_crop,3,none,none,,3,0,0,3
+325,75,USMO02,5,corn wheat clover; fertility,1950,intense,legume,optimal,synthetic ,none_removed,,row_crop,2,none,none,,2,1,0,3
+326,75,USMO02,6,corn wheat clover; no fertility,1888,intense,legume,none,none,none_removed,,row_crop,2,none,none,,2,1,0,3
+327,75,USMO02,7,corn wheat clover;manure,1888,intense,legume,optimal,organic,none_removed,,row_crop,2,none,none,,2,1,0,3
+328,75,USMO02,8,corn; fertility; conventional,1950,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+329,75,USMO02,9,corn; fertility; no till,1970,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+330,75,USMO02,10,corn; manure,1888,intense,none ,optimal,organic,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+331,75,USMO02,11,corn; no fertility,1888,intense,none ,none,none,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+332,75,USMO02,12,timothy; manure,1888,intense,none ,optimal,organic,all_removed,timothy,perennial,1,none,none,,1,0,0,1
+333,75,USMO02,13,timothy; no fertility,1888,intense,none ,none,none,all_removed,timothy,perennial,1,none,none,,1,0,0,1
+334,75,USMO02,14,wheat; full fertility,1950,intense,none ,optimal,synthetic ,none_removed,wheat,row_crop,1,none,none,,1,0,0,1
+335,75,USMO02,15,wheat; manure,1888,intense,none ,optimal,organic,none_removed,wheat,row_crop,1,none,none,,1,0,0,1
+336,75,USMO02,16,wheat; no fertility,1888,intense,none ,none,none,none_removed,wheat,row_crop,1,none,none,,1,0,0,1
+337,76,USMO03,1,fall and spring disk,1990,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+338,76,USMO03,2,no till,1990,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+339,77,USMO04,1,Chisel/disk,1994,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,3,none,none,,3,0,0,3
+340,77,USMO04,2,No-till; red clover,1994,minimum,legume,optimal,synthetic ,none_removed,corn,row_crop,3,none,none,,3,1,0,4
+341,77,USMO04,3,No-till; double crop soybeans,1994,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,3,none,none,,3,0,0,3
+342,78,USMO05,1,20ft drainage + subirrigation,2001,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+343,78,USMO05,2,non-drained control,2001,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+344,79,USMT01,1,continuous spring wheat no till 0n,2005,minimum,none ,none,none,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+345,79,USMT01,2,continuous spring wheat no till 100n,2005,minimum,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+346,79,USMT01,3,spring wheat - chemical fallow no till 0n,2005,minimum,none ,none,none,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+347,79,USMT01,4,spring wheat - chemical fallow no till 100n,2005,minimum,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+348,79,USMT01,5,spring wheat - fallow conventional till 0n,2005,moderate,none ,none,none,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+349,79,USMT01,6,spring wheat - fallow conventional till 100n,2005,moderate,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+350,79,USMT01,7,spring wheat - pea no till 0n,2005,minimum,none ,none,none,none_removed,Spring Wheat,row_crop,2,none,none,,2,0,0,2
+351,79,USMT01,8,spring wheat - pea no till 100n,2005,minimum,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,2,none,none,,2,0,0,2
+352,80,USMT02,1,spring wheat - pea no till,1981,minimum,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,2,none,none,,2,0,0,2
+353,80,USMT02,2,spring wheat fall and spring till continuous wheat,1981,intense,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+354,80,USMT02,3,spring wheat no till continuous wheat,1981,minimum,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+355,80,USMT02,4,spring wheat-fallow spring till,1981,moderate,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,1,none,none,,1,0,0,1
+356,82,USNC02,1,chisel plowing without cover crops; n applied,1984,moderate,none ,optimal,synthetic ,none_removed,after corn_fall,row_crop,2,none,none,,2,0,0,2
+357,82,USNC02,2,moldboard and disk plowing without cover crops; n applied,1984,intense,none ,optimal,synthetic ,none_removed,after corn_fall,row_crop,2,none,none,,2,0,0,2
+358,82,USNC02,3,no till without cover crops; n applied,1984,minimum,none ,optimal,synthetic ,none_removed,after corn_fall,row_crop,2,none,none,,2,0,0,2
+359,83,USNC03,1,cropping system [conventional cash crop]; conventional till,1999,intense,grasses,optimal,synthetic ,none_removed,"After sorghum, before corn",row_crop,greater_than_3,none,none,,4,2,0,6
+360,83,USNC03,2,cropping system [conventional cash crop]; no till,1999,minimum,grasses,optimal,synthetic ,none_removed,"After sorghum, before corn",row_crop,greater_than_3,none,none,,4,2,0,6
+361,83,USNC03,3,cropping system [integrated crop-livestock]; 3 years hay-3 years cash crop,1999,moderate,grasses,optimal,synthetic ,partial_removal,Before 1st year cash crop (corn),integrated_row_crop_and_perennial,greater_than_3,none,none,,5,1,0,6
+362,83,USNC03,4,cropping system [integrated crop-livestock]; 6 years cash crop-6 years pasture,1999,moderate,grasses,optimal,synthetic ,partial_removal,4th year of pasture,integrated_row_crop_and_perennial,greater_than_3,medium_biomass_removal,none,,3,1,4,8
+363,83,USNC03,5,cropping system [integrated crop-livestock]; 6 years pasture-6 years cash crop,1999,moderate,grasses,optimal,synthetic ,partial_removal,"After sorghum, before corn",integrated_row_crop_and_perennial,greater_than_3,medium_biomass_removal,none,,3,1,4,8
+364,83,USNC03,6,cropping system [organic]; 1 year fallow/summer cover crop-2 years cash crop; conservation till,1999,intense,mix,optimal,organic,none_removed,Before 1st year cash crop (corn),row_crop,3,none,none,,3,3,0,6
+365,83,USNC03,7,cropping system [organic]; 1 year fallow/summer cover crop-2 years cash crop; conventional till,1999,intense,mix,optimal,organic,none_removed,Before 1st year cash crop (corn),row_crop,3,none,none,,3,3,0,6
+366,83,USNC03,8,cropping system [organic]; 3 years cash crop; conventional till,1999,intense,mix,optimal,organic,none_removed,"After sunflower, before corn",row_crop,3,none,none,,3,3,0,6
+367,83,USNC03,9,cropping system [organic]; 3 years hay-3 years cash crop; conventional till,1999,intense,mix,optimal,organic,partial_removal,Before 1st year cash crop (corn),integrated_row_crop_and_perennial,greater_than_3,none,none,,5,3,0,8
+368,83,USNC03,10,cropping system [plantation forestry (bald cypress)],1999,none,none ,n_a,none,none_removed,Bald cypress,woody_perennial,perennial_or_na,none,none,,0,0,6,6
+369,83,USNC03,11,cropping system [plantation forestry (black walnut)],1999,none,none ,n_a,none,none_removed,Black walnut,woody_perennial,perennial_or_na,none,none,,0,0,6,6
+370,83,USNC03,12,cropping system [plantation forestry (green ash)],1999,none,none ,n_a,none,none_removed,Green ash,woody_perennial,perennial_or_na,none,none,,0,0,6,6
+371,83,USNC03,13,cropping system [plantation forestry (longleaf pine)],1999,none,none ,n_a,none,none_removed,Longleaf pine,woody_perennial,perennial_or_na,none,none,,0,0,5,5
+372,83,USNC03,14,cropping system [successional ecosystem]; successional forest,1999,none,none ,n_a,none,none_removed,Forest,woody_perennial,perennial_or_na,none,none,,0,0,8,8
+373,84,USND01,1,spring wheat + residue no till,1993,minimum,none ,optimal,synthetic ,none_removed,alfalfa/intermediate wheatgrass,row_crop,1,none,none,,1,0,0,1
+374,84,USND01,2,spring wheat + residue reduced till,1993,moderate,none ,optimal,synthetic ,none_removed,alfalfa/intermediate wheatgrass,row_crop,1,none,none,,1,0,0,1
+375,84,USND01,3,spring wheat - corn - cover crop no till,1993,minimum,none ,optimal,synthetic ,partial_removal,alfalfa/intermediate wheatgrass,row_crop,greater_than_3,none,none,,10,0,0,10
+376,84,USND01,4,spring wheat - corn - cover crop reduced till,1993,moderate,none ,optimal,synthetic ,partial_removal,alfalfa/intermediate wheatgrass,row_crop,greater_than_3,none,none,,10,0,0,10
+377,84,USND01,5,spring wheat - corn - soybean no till,1993,minimum,none ,optimal,synthetic ,none_removed,alfalfa/intermediate wheatgrass,row_crop,3,none,none,,3,0,0,3
+378,84,USND01,6,spring wheat - corn - soybean reduced till,1993,moderate,none ,optimal,synthetic ,none_removed,alfalfa/intermediate wheatgrass,row_crop,3,none,none,,3,0,0,3
+379,84,USND01,7,spring wheat - fallow no till,1993,minimum,none ,optimal,synthetic ,none_removed,alfalfa/intermediate wheatgrass,row_crop,1,none,none,,1,0,0,1
+380,84,USND01,8,spring wheat - fallow reduced till,1993,moderate,none ,optimal,synthetic ,none_removed,alfalfa/intermediate wheatgrass,row_crop,1,none,none,,1,0,0,1
+381,85,USND02,1,0n conventional till,1987,intense,none ,none,none,none_removed,Spring Wheat,row_crop,greater_than_3,none,none,,4,0,0,4
+382,85,USND02,2,0n no till,1987,minimum,none ,none,none,none_removed,Spring Wheat,row_crop,greater_than_3,none,none,,4,0,0,4
+383,85,USND02,3,0n reduced till,1987,moderate,none ,none,none,none_removed,Spring Wheat,row_crop,greater_than_3,none,none,,4,0,0,4
+384,85,USND02,4,112n conventional till,1987,intense,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,greater_than_3,none,none,,4,0,0,4
+385,85,USND02,5,112n no till,1987,minimum,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,greater_than_3,none,none,,4,0,0,4
+386,85,USND02,6,112n reduced till,1987,moderate,none ,optimal,synthetic ,none_removed,Spring Wheat,row_crop,greater_than_3,none,none,,4,0,0,4
+387,86,USNE01,1,sod,1970,none,none ,n_a,none,none_removed,Sod,non_farmed,perennial_or_na,none,none,,0,0,8,8
+388,86,USNE01,2,winter wheat/fallow chemical fallow,1970,minimum,none ,n_a,none,none_removed,Fallow,row_crop,1,none,none,,1,0,0,1
+389,86,USNE01,3,winter wheat/fallow plow,1970,moderate,none ,n_a,none,none_removed,Fallow,row_crop,1,none,none,,1,0,0,1
+390,86,USNE01,4,winter wheat/fallow stubble mulch,1970,moderate,none ,n_a,none,none_removed,Fallow,row_crop,1,none,none,,1,0,0,1
+391,88,USNE03,3,corn/soybean rainfed,2001,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,1,none,sprinkler,compare to NE04 and NE05 and NE 06,2,0,0,2
+392,89,USNE04,2,corn/soybean irrigated,2001,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,sprinkler,compare to NE03 and NE05 and NE06,2,0,0,2
+393,90,USNE05,1,continuous corn,2001,intense,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,compare to NE03 and NE04 and NE06,1,0,0,1
+394,91,USNE06,4,pasture,2014,none,none ,n_a,none,partial_removal,Pasture,perennial,perennial_or_na,medium_biomass_removal,none,compare to NE03 and NE04 and NE06,0,0,8,8
+395,92,USNY01,1,benchmark,1973,none,none ,none,none,none_removed,grass,non_farmed,perennial_or_na,none,none,,0,0,1,1
+396,92,USNY01,2,conventional; grain,1973,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+397,92,USNY01,3,conventional; silage,1973,intense,none ,optimal,synthetic ,all_removed,corn,row_crop,1,none,none,,1,0,0,1
+398,92,USNY01,4,no_till; grain,1973,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+399,92,USNY01,5,no_till; silage,1973,minimum,none ,optimal,synthetic ,all_removed,corn,row_crop,1,none,none,,1,0,0,1
+400,93,USNY02,1,benchmark,2007,none,none ,n_a,none,none_removed,grass,non_farmed,perennial_or_na,none,none,,0,0,1,1
+401,93,USNY02,2,no_till,2007,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+402,93,USNY02,3,plow_till,2007,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+403,94,USNY03,1,benchmark,2007,none,none ,n_a,none,none_removed,grass,non_farmed,perennial_or_na,none,none,,0,0,1,1
+404,94,USNY03,2,no_till,2007,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+405,94,USNY03,3,plow_till,2007,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+406,95,USNY04,1,benchmark,1992,none,none ,n_a,none,none_removed,grass,non_farmed,perennial_or_na,none,none,,0,0,1,1
+407,95,USNY04,2,plow_till; cover_crop,2013,intense,mix,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,4,0,5
+408,95,USNY04,3,plow_till; no_cover,1992,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+409,95,USNY04,4,zone_till; cover_crop,2013,minimum,mix,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,4,0,5
+410,95,USNY04,5,zone_till; no_cover,1992,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+411,96,USOH02,1,chisel_plow; corn,1963,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+412,96,USOH02,2,chisel_plow; corn; clover; clover,1963,moderate,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,2,0,0,2
+413,96,USOH02,3,chisel_plow; corn; soybean,1963,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+414,96,USOH02,4,no_till; corn,1963,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+415,96,USOH02,5,no_till; corn; clover; clover,1963,minimum,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,2,0,0,2
+416,96,USOH02,6,no_till; corn; soybean,1963,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+417,96,USOH02,7,plow_till; corn,1963,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+418,96,USOH02,8,plow_till; corn; clover; clover,1963,intense,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,2,0,0,2
+419,96,USOH02,9,plow_till; corn; soybean,1963,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+420,97,USOH03,1,chisel_plow; corn,1962,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+421,97,USOH03,2,chisel_plow; corn; alfalfa; alfalfa,1962,moderate,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,2,0,0,2
+422,97,USOH03,3,chisel_plow; corn; soybean,1962,moderate,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+423,97,USOH03,4,no_till; corn,1962,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+424,97,USOH03,5,no_till; corn; alfalfa; alfalfa,1962,minimum,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,2,0,0,2
+425,97,USOH03,6,no_till; corn; soybean,1962,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+426,97,USOH03,7,plow_till; corn,1962,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+427,97,USOH03,8,plow_till; corn; alfalfa; alfalfa,1962,intense,none ,optimal,synthetic ,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,2,0,0,2
+428,97,USOH03,9,plow_till; corn; soybean,1962,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+429,98,USOK01,1,cropped; conventional till,1976,intense,none ,optimal,synthetic ,partial_removal,cover crop,integrated_row_crop_and_perennial,2,medium_biomass_removal,none,,5,0,0,5
+430,98,USOK01,2,cropped; no-till,1976,minimum,mix,optimal,synthetic ,partial_removal,winter wheat,integrated_row_crop_and_perennial,2,medium_biomass_removal,none,,5,7,0,12
+431,98,USOK01,3,native grassland,1976,none,none ,optimal,synthetic ,partial_removal,perennial native grasses,perennial,perennial_or_na,medium_biomass_removal,none,,5,0,0,5
+432,98,USOK01,4,native grassland conversion plot; conventional till,1976,moderate,mix,optimal,synthetic ,partial_removal,perennial native grasses,integrated_row_crop_and_perennial,2,medium_biomass_removal,none,,5,7,0,12
+433,98,USOK01,5,remnant prairie,1976,none,none ,n_a,none,none_removed,perennial native grasses,non_farmed,perennial_or_na,none,none,,0,0,8,8
+434,99,USOR01,1,"no till, cover crop, winter wheat",2003,minimum,legume,optimal,synthetic ,partial_removal,winter wheat,row_crop,1,none,none,,1,1,0,2
+435,99,USOR01,2,"no till, wheat fallow, winter wheat",2003,minimum,none ,optimal,synthetic ,partial_removal,winter wheat,row_crop,1,none,none,,1,0,0,1
+436,99,USOR01,3,"trash till, wheat fallow, winter wheat",2003,moderate,none ,optimal,synthetic ,none_removed,winter wheat,row_crop,1,none,none,,1,0,0,1
+437,100,USOR02,1,"no farming, perennial grass",1931,none,none ,none,none,none_removed,mixed species native grass,non_farmed,perennial_or_na,none,none,,0,0,5,5
+438,101,USOR03,1,winter-wheat_pea;chisel,1963,moderate,none ,optimal,synthetic ,none_removed,winter wheat,row_crop,2,none,none,,2,0,0,2
+439,101,USOR03,2,winter-wheat_pea;no-till,1963,minimum,none ,optimal,synthetic ,none_removed,winter wheat,row_crop,2,none,none,,2,0,0,2
+440,101,USOR03,3,winter-wheat_pea;plow,1963,intense,none ,optimal,synthetic ,none_removed,winter wheat,row_crop,2,none,none,,2,0,0,2
+441,102,USOR04,2,wheat_fallow; 80lbs n/acre,1938,intense,none ,optimal,synthetic ,partial_removal,winter wheat,row_crop,1,none,none,,1,0,0,1
+442,102,USOR04,3,wheat_fallow; 80lbs n/acre; spring burn stubble,1938,intense,none ,optimal,synthetic ,all_removed,winter wheat,row_crop,1,none,none,residue burn,1,0,0,1
+443,102,USOR04,4,wheat_fallow; manure 10t/acre,1938,intense,none ,optimal,synthetic_and_organic,partial_removal,winter wheat,row_crop,1,none,none,,1,0,0,1
+444,102,USOR04,5,wheat_fallow; pea vine 3t/acre,1938,intense,none ,optimal,synthetic_and_organic,partial_removal,winter wheat,row_crop,1,none,none,,1,0,0,1
+445,103,USPA01,2,no-till legume,2008,intense,mix,none,none,none_removed,Soybean/Wheat,row_crop,greater_than_3,none,none,,4,3,0,7
+446,103,USPA01,3,no-till manure,2008,intense,mix,optimal,organic,partial_removal,Sileage/Wheat,row_crop,greater_than_3,none,none,,7,3,0,10
+447,103,USPA01,4,sccs no-till conventional,2008,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+448,103,USPA01,5,sccs tilled conventional,2008,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+449,103,USPA01,6,swrcr no-till conventional,2008,minimum,grasses,optimal,synthetic ,none_removed,Soybean/Wheat,row_crop,2,none,none,,2,2,0,4
+450,103,USPA01,7,swrcr tilled conventional,2008,intense,grasses,optimal,synthetic ,none_removed,Soybean/Wheat,row_crop,2,none,none,,2,2,0,4
+451,103,USPA01,8,tilled legume,2008,intense,mix,none,none,none_removed,Soybean/Wheat,row_crop,greater_than_3,none,none,,4,3,0,7
+452,103,USPA01,9,tilled manure,2008,intense,mix,optimal,organic,partial_removal,Sileage/Wheat,row_crop,greater_than_3,none,none,,7,3,0,10
+453,105,USPA03,1,broadcast manure,2010,minimum,mix,optimal,organic,partial_removal,,integrated_row_crop_and_perennial,2,none,none,,5,2,0,7
+454,105,USPA03,2,broadcast manure-chisel disk,2010,moderate,none ,optimal,organic,none_removed,,row_crop,2,none,none,,2,0,0,2
+455,105,USPA03,3,broadcast manure-no till,2010,minimum,none ,optimal,organic,none_removed,,row_crop,2,none,none,,2,0,0,2
+456,105,USPA03,4,business as usual (bau),2010,minimum,mix,optimal,organic,partial_removal,,integrated_row_crop_and_perennial,greater_than_3,none,none,,3,3,0,6
+457,105,USPA03,5,fertilizer,2010,minimum,none ,optimal,synthetic_and_organic,none_removed,,row_crop,2,none,none,,2,0,0,2
+458,105,USPA03,6,reduced herbicide (rh),2010,intense,mix,optimal,organic,partial_removal,,integrated_row_crop_and_perennial,greater_than_3,none,none,,4,3,0,7
+459,106,USSC02,1,cotton-corn-soybean-corn-soybean rotation [soybean]; conservation till,1977,moderate,mix,optimal,synthetic ,none_removed,before soybean,row_crop,2,none,none,,3,3,0,6
+460,106,USSC02,2,cotton-corn-soybean-corn-soybean rotation [soybean]; conventional till,1977,intense,mix,optimal,synthetic ,none_removed,before soybean,row_crop,2,none,none,,3,3,0,6
+461,108,USSD02,1,corn cc/soybean cc,2017,minimum,grasses,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,,2,1,0,3
+462,108,USSD02,2,corn/soybean,2000,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,,2,0,0,2
+463,108,USSD02,3,winter wheat cc/soybean cc/corn cc/oats cc,2017,minimum,grasses,optimal,synthetic ,none_removed,Corn,row_crop,greater_than_3,none,none,,4,1,0,5
+464,108,USSD02,4,winter wheat/soybean/corn/oats,2000,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,greater_than_3,none,none,,4,0,0,4
+465,109,USSD03,1,heavy grazing,1942,none,none ,none,none,partial_removal,Native grass,perennial,perennial_or_na,high_biomass_removal,none,,0,0,8,8
+466,109,USSD03,2,moderate grazing,1942,none,none ,none,none,partial_removal,Native grass,perennial,perennial_or_na,low_biomass_removal,none,,0,0,8,8
+467,109,USSD03,3,light grazing,1942,none,none ,none,none,partial_removal,Native grass,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,8,8
+468,113,USTX02,1,conventional till; biocover [fallow],1998,intense,none ,optimal,synthetic ,none_removed,Cotton,row_crop,1,none,sprinkler,,1,0,0,1
+469,113,USTX02,2,no till; biocover [mixed],1998,minimum,mix,optimal,synthetic ,none_removed,Cotton,row_crop,1,none,sprinkler,,1,4,0,5
+470,113,USTX02,3,no till; biocover [rye],1998,minimum,grasses,optimal,synthetic ,none_removed,Cotton,row_crop,1,none,sprinkler,,1,1,0,2
+471,114,USTX03,1,conventional till;  rotation phase [cotton (upland)],2008,intense,none ,optimal,synthetic ,none_removed,Cotton (upland),row_crop,2,none,none,,2,0,0,2
+472,114,USTX03,2,no till;  rotation phase [cotton (upland)],2008,minimum,none ,optimal,synthetic ,none_removed,Cotton (upland),row_crop,2,none,none,,2,0,0,2
+473,115,USTX05,1,continuous soybean; conventional till; 0 kg p2o5 ha-1,1982,intense,none ,none,none,none_removed,Soybean,row_crop,1,none,none,,1,0,0,1
+474,115,USTX05,2,continuous soybean; conventional till; 102 kg p2o5 ha-1,1982,intense,none ,optimal,synthetic ,none_removed,Soybean,row_crop,1,none,none,,1,0,0,1
+475,115,USTX05,3,continuous soybean; no-till; 0 kg p2o5 ha-1,1982,minimum,none ,none,none,none_removed,Soybean,row_crop,1,none,none,,1,0,0,1
+476,115,USTX05,4,continuous soybean; no-till; 102 kg p2o5 ha-1,1982,minimum,none ,optimal,synthetic ,none_removed,Soybean,row_crop,1,none,none,,1,0,0,1
+477,115,USTX05,5,continuous wheat; conventional till; 0 kg n ha-1,1982,intense,none ,none,none,none_removed,Wheat,row_crop,1,none,none,,1,0,0,1
+478,115,USTX05,6,continuous wheat; conventional till; 102 kg n ha-1,1982,intense,none ,optimal,synthetic ,none_removed,Wheat,row_crop,1,none,none,,1,0,0,1
+479,115,USTX05,7,continuous wheat; no-till; 0 kg n ha-1,1982,minimum,none ,none,none,none_removed,Wheat,row_crop,1,none,none,,1,0,0,1
+480,115,USTX05,8,continuous wheat; no-till; 102 kg n ha-1,1982,minimum,none ,optimal,synthetic ,none_removed,Wheat,row_crop,1,none,none,,1,0,0,1
+481,118,USVA01,1,n based_normal poultry litter rate as_P2O5; fertility discontinued in 2014,2003,minimum,none ,optimal,synthetic_and_organic,none_removed,Corn,row_crop,2,none,none,,3,0,0,3
+482,118,USVA01,2,n_based_poultry litter rate as poultry litter; fertility discontinued in 2014,2003,minimum,none ,optimal,synthetic_and_organic,none_removed,Corn,row_crop,2,none,none,,3,0,0,3
+483,118,USVA01,3,standard_practices_P2O5 as needed; fertility discontinued in 2014,2003,minimum,none ,optimal,synthetic ,none_removed,Corn,row_crop,2,none,none,,3,0,0,3
+484,119,USWA01,1,biosolids 2 dry ton/a,1994,minimum,none ,low,synthetic_and_organic,none_removed,canola stubble going into oats,row_crop,greater_than_3,none,none,,4,0,0,4
+485,119,USWA01,2,biosolids 3 dry ton/a,1994,minimum,none ,optimal,synthetic_and_organic,none_removed,canola stubble going into oats,row_crop,greater_than_3,none,none,,4,0,0,4
+486,119,USWA01,3,biosolids 4.5 dry ton/a,1994,minimum,none ,excessive,synthetic_and_organic,none_removed,canola stubble going into oats,row_crop,greater_than_3,none,none,,4,0,0,4
+487,119,USWA01,4,no fertilizer,1994,minimum,none ,none,none,none_removed,canola stubble going into oats,row_crop,greater_than_3,none,none,,4,0,0,4
+488,119,USWA01,5,synthetic fertilizer,1994,minimum,none ,optimal,synthetic ,none_removed,canola stubble going into oats,row_crop,greater_than_3,none,none,,4,0,0,4
+489,120,USWA02,1,continuous spring wheat; no till,1997,minimum,none ,optimal,synthetic ,none_removed,spring wheat,row_crop,1,none,none,,1,0,0,1
+490,120,USWA02,2,"triticale, spring wheat, fallow rotation; no till, chemical fallow",2010,minimum,none ,optimal,synthetic ,none_removed,triticale,row_crop,2,none,none,,2,0,0,2
+491,120,USWA02,3,"winter wheat, fallow rotation; tilled fallow",2010,moderate,none ,optimal,synthetic ,none_removed,winter wheat,row_crop,1,none,none,,1,0,0,1
+492,120,USWA02,4,"winter wheat, spring wheat, fallow rotation; tilled fallow",2010,moderate,none ,optimal,synthetic ,none_removed,winter wheat,row_crop,2,none,none,,1,0,0,1
+493,122,USWI01,1,corn,1989,intense,none ,optimal,synthetic ,none_removed,corn,row_crop,1,none,none,,1,0,0,1
+494,122,USWI01,2,corn; alfalfa; alfalfa; alfalfa,1989,intense,none ,optimal,synthetic_and_organic,partial_removal,corn,integrated_row_crop_and_perennial,greater_than_3,none,none,,2,0,0,2
+495,122,USWI01,3,corn; oats_alfalfa; alfalfa,1989,intense,none ,optimal,synthetic_and_organic,partial_removal,corn,integrated_row_crop_and_perennial,3,none,none,,3,0,0,3
+496,122,USWI01,4,corn; soybean,1989,minimum,none ,optimal,synthetic ,none_removed,corn,row_crop,2,none,none,,2,0,0,2
+497,122,USWI01,5,corn; soybean; wheat_clover,1989,intense,mix,optimal,synthetic_and_organic,none_removed,corn,row_crop,3,none,none,,3,2,0,5
+498,122,USWI01,6,native; bioenergy_crop,1989,none,none ,excessive,synthetic ,all_removed,native_grasses,perennial,perennial_or_na,none,none,,8,0,0,8
+499,122,USWI01,7,native; grazed,1989,none,none ,none,organic,all_removed,native_grasses,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,8,8
+500,122,USWI01,8,native;not_grazed,1989,none,none ,none,none,all_removed,native_grasses,perennial,perennial_or_na,none,none,,0,0,8,8
+501,122,USWI01,9,pasture,1989,none,none ,optimal,organic,partial_removal,pasture,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,8,8
+502,123,USWV01,1,high input hay,1999,none,none ,excessive,organic,partial_removal,hay,perennial,perennial_or_na,medium_biomass_removal,none,,4,0,0,4
+503,123,USWV01,2,high input pasture,1999,none,none ,excessive,organic,partial_removal,pasture,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,4,4
+504,123,USWV01,3,low input hay,1999,none,none ,low,organic,partial_removal,hay,perennial,perennial_or_na,medium_biomass_removal,none,,4,0,0,4
+505,123,USWV01,4,low input pasture,1999,none,none ,low,organic,partial_removal,pasture,perennial,perennial_or_na,medium_biomass_removal,none,,0,0,4,4
+506,124,USWY01,1,continuous heavy grazing,1982,none,none ,none,none,partial_removal,,perennial,perennial_or_na,high_biomass_removal,none,,0,0,8,8
+507,124,USWY01,2,continuous light grazing,1982,none,none ,none,none,partial_removal,,perennial,perennial_or_na,low_biomass_removal,none,,0,0,8,8
+508,124,USWY01,3,exclosure,1982,none,none ,none,none,none_removed,,non_farmed,perennial_or_na,no grazing,none,,0,0,8,8

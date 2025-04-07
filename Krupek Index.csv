@@ -1,0 +1,73 @@
+﻿Variable,Mean,Sd,Index,Index_value,Interpretation,Number_of_Observations
+H2O Extractable Organic Nitrogen (mg/kg),12.32,3.5,Crop Diversity,0.44,Low CD,98
+H2O Extractable Organic Nitrogen (mg/kg),11.43,3.54,Crop Diversity,1,High CD,50
+H2O Extractable Organic Nitrogen (mg/kg),11.32,2.87,Cover Crop Years,0.49,Few to No years w/ CC,116
+H2O Extractable Organic Nitrogen (mg/kg),14.08,4.52,Cover Crop Years,1,Many years w/ CC,32
+H2O Extractable Organic Nitrogen (mg/kg),12.42,3.19,Years Without Disturbance,0.5,Few to No years w/o SD,98
+H2O Extractable Organic Nitrogen (mg/kg),11.27,3.95,Years Without Disturbance,1,Many years w/o SD,50
+H2O Extractable Organic Nitrogen (mg/kg),12.51,3.5,Crop Livestock Integration,0.5,Few to No years w/ A,92
+H2O Extractable Organic Nitrogen (mg/kg),10.78,3.33,Crop Livestock Integration,1,Many years w/ A,56
+H2O Extractable Organic Carbon (mg/kg),151.3,40.2,Crop Diversity,0.44,Low CD,98
+H2O Extractable Organic Carbon (mg/kg),145.2,39.1,Crop Diversity,1,High CD,50
+H2O Extractable Organic Carbon (mg/kg),148.4,36.8,Cover Crop Years,0.49,Few to No years w/ CC,116
+H2O Extractable Organic Carbon (mg/kg),151,48.2,Cover Crop Years,1,Many years w/ CC,32
+H2O Extractable Organic Carbon (mg/kg),157.2,41.1,Years Without Disturbance,0.5,Few to No years w/o SD,98
+H2O Extractable Organic Carbon (mg/kg),135.4,33.6,Years Without Disturbance,1,Many years w/o SD,50
+H2O Extractable Organic Carbon (mg/kg),152.4,40.6,Crop Livestock Integration,0.5,Few to No years w/ A,92
+H2O Extractable Organic Carbon (mg/kg),140.9,37,Crop Livestock Integration,1,Many years w/ A,56
+H2O Extractable Total Nitrogen (mg/kg),22.02,8.43,Crop Diversity,0.44,Low CD,98
+H2O Extractable Total Nitrogen (mg/kg),20.33,5.1,Crop Diversity,1,High CD,50
+H2O Extractable Total Nitrogen (mg/kg),19.23,4.51,Cover Crop Years,0.49,Few to No years w/ CC,116
+H2O Extractable Total Nitrogen (mg/kg),28.58,10.09,Cover Crop Years,1,Many years w/ CC,32
+H2O Extractable Total Nitrogen (mg/kg),21.41,4.75,Years Without Disturbance,0.5,Few to No years w/o SD,98
+H2O Extractable Total Nitrogen (mg/kg),21.32,10.32,Years Without Disturbance,1,Many years w/o SD,50
+H2O Extractable Total Nitrogen (mg/kg),23.57,7.55,Crop Livestock Integration,0.5,Few to No years w/ A,92
+H2O Extractable Total Nitrogen (mg/kg),16.67,4.11,Crop Livestock Integration,1,Many years w/ A,56
+Organic Matter (%),3.68,0.69,Crop Diversity,0.44,Low CD,98
+Organic Matter (%),3.56,0.91,Crop Diversity,1,High CD,50
+Organic Matter (%),3.47,0.76,Cover Crop Years,0.49,Few to No years w/ CC,116
+Organic Matter (%),4.15,0.59,Cover Crop Years,1,Many years w/ CC,32
+Organic Matter (%),3.61,0.89,Years Without Disturbance,0.5,Few to No years w/o SD,98
+Organic Matter (%),3.67,0.55,Years Without Disturbance,1,Many years w/o SD,50
+Organic Matter (%),3.59,0.84,Crop Livestock Integration,0.5,Few to No years w/ A,92
+Organic Matter (%),3.73,0.61,Crop Livestock Integration,1,Many years w/ A,56
+24 hour CO2 Respiration,49.29,21.12,Crop Diversity,0.44,Low CD,98
+24 hour CO2 Respiration,50.42,25.26,Crop Diversity,1,High CD,50
+24 hour CO2 Respiration,44.49,19.65,Cover Crop Years,0.49,Few to No years w/ CC,116
+24 hour CO2 Respiration,67.79,23.76,Cover Crop Years,1,Many years w/ CC,32
+24 hour CO2 Respiration,80.76,23.11,Years Without Disturbance,0.5,Few to No years w/o SD,98
+24 hour CO2 Respiration,47.92,22.18,Years Without Disturbance,1,Many years w/o SD,50
+24 hour CO2 Respiration,51.33,24.74,Crop Livestock Integration,0.5,Few to No years w/ A,92
+24 hour CO2 Respiration,46.16,17.31,Crop Livestock Integration,1,Many years w/ A,56
+Haney Extract IN (mg/kg),10.8,5.75,Crop Diversity,0.44,Low CD,98
+Haney Extract IN (mg/kg),11.71,4.39,Crop Diversity,1,High CD,50
+Haney Extract IN (mg/kg),10,4.07,Cover Crop Years,0.49,Few to No years w/ CC,116
+Haney Extract IN (mg/kg),14.7,6.78,Cover Crop Years,1,Many years w/ CC,32
+Haney Extract IN (mg/kg),11.15,4.11,Years Without Disturbance,0.5,Few to No years w/o SD,98
+Haney Extract IN (mg/kg),11.13,6.76,Years Without Disturbance,1,Many years w/o SD,50
+Haney Extract IN (mg/kg),12.73,5.47,Crop Livestock Integration,0.5,Few to No years w/ A,92
+Haney Extract IN (mg/kg),7.49,1.96,Crop Livestock Integration,1,Many years w/ A,56
+Haney Extract IP (mg/kg),16.04,16.03,Crop Diversity,0.44,Low CD,98
+Haney Extract IP (mg/kg),16.18,9.7,Crop Diversity,1,High CD,50
+Haney Extract IP (mg/kg),13.41,9.92,Cover Crop Years,0.49,Few to No years w/ CC,116
+Haney Extract IP (mg/kg),25.89,13.32,Cover Crop Years,1,Many years w/ CC,32
+Haney Extract IP (mg/kg),14.99,10.86,Years Without Disturbance,0.5,Few to No years w/o SD,98
+Haney Extract IP (mg/kg),17.96,13.25,Years Without Disturbance,1,Many years w/o SD,50
+Haney Extract IP (mg/kg),19.33,12.42,Crop Livestock Integration,0.5,Few to No years w/ A,92
+Haney Extract IP (mg/kg),8.87,6.11,Crop Livestock Integration,1,Many years w/ A,56
+Haney Extract OP (mg/kg),3.93,1.63,Crop Diversity,0.44,Low CD,98
+Haney Extract OP (mg/kg),4.67,1.41,Crop Diversity,1,High CD,50
+Haney Extract OP (mg/kg),4.17,1.67,Cover Crop Years,0.49,Few to No years w/ CC,116
+Haney Extract OP (mg/kg),4.36,1.22,Cover Crop Years,1,Many years w/ CC,32
+Haney Extract OP (mg/kg),4.54,1.53,Years Without Disturbance,0.5,Few to No years w/o SD,98
+Haney Extract OP (mg/kg),3.62,1.52,Years Without Disturbance,1,Many years w/o SD,50
+Haney Extract OP (mg/kg),4.79,1.43,Crop Livestock Integration,0.5,Few to No years w/ A,92
+Haney Extract OP (mg/kg),2.87,1.02,Crop Livestock Integration,1,Many years w/ A,56
+Soil Health Score,9.26,2.66,Crop Diversity,0.44,Low CD,98
+Soil Health Score,9.12,2.96,Crop Diversity,1,High CD,50
+Soil Health Score,8.58,2.63,Cover Crop Years,0.49,Few to No years w/ CC,116
+Soil Health Score,11.2,3.08,Cover Crop Years,1,Many years w/ CC,32
+Soil Health Score,9.49,2.88,Years Without Disturbance,0.5,Few to No years w/o SD,98
+Soil Health Score,8.72,2.55,Years Without Disturbance,1,Many years w/o SD,50
+Soil Health Score,9.48,3.05,Crop Livestock Integration,0.5,Few to No years w/ A,92
+Soil Health Score,8.58,1.91,Crop Livestock Integration,1,Many years w/ A,56
